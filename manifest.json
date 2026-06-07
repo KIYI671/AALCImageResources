@@ -2376,13 +2376,13 @@
       "size": 89299
     }
   ],
-  "generated_at": "2026-06-07T05:02:32Z",
+  "generated_at": "2026-06-07T05:08:55Z",
   "manifest_id": "5ea10e2a241333ae326f272ce2ef17cb000b5ceb4f3afde77bdad40181d43e7e",
   "package": {
     "format": "7z",
     "path": "packages/images.7z",
-    "sha256": "2ccca1a4180e54928b43c2ae0ab755b9325c878ede09f07e24d771600f22058c",
-    "size": 7426405
+    "sha256": "8957edb56d41c3ea502d57cc3295dbbc6b64b17b8265799c129fda373cda02a7",
+    "size": 7426377
   },
   "schema_version": 1
 }
