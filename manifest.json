@@ -1,0 +1,2388 @@
+{
+  "files": [
+    {
+      "path": "dark/en/enkephalin/use_lunacy_assets.png",
+      "sha256": "f8fe051a29a34765a76dcbad729d9103fb4da3dc73e8744f3ecb5b3bfe899a15",
+      "size": 25722
+    },
+    {
+      "path": "dark/en/mail/claim_all_assets.png",
+      "sha256": "aba4a08c9df20f9dabdbf0873ea6692a91c1a87adb8f9e568af7c0c23e820d3f",
+      "size": 20262
+    },
+    {
+      "path": "dark/en/mirror/road_to_mir/resume_assets.png",
+      "sha256": "a3dd165815dda67aab34f7e4ad47888330ae463f2042eca41e43afbce6a03b3f",
+      "size": 24557
+    },
+    {
+      "path": "dark/share/base/renew_confirm_assets.png",
+      "sha256": "4160ea379f3ff8c563efc0b2357cfb8b1d72f86153cded4a51a24c753b1d9db3",
+      "size": 20819
+    },
+    {
+      "path": "dark/share/battle/give_up_assets.png",
+      "sha256": "af9545fe55433cf1817a4fbcfb5e57ebf95df32b335efd8a60d579608861f66f",
+      "size": 20663
+    },
+    {
+      "path": "dark/share/battle/normal_give_up_assets.png",
+      "sha256": "6bd887c49135bcb0f76a0a8df73902b27971b8399dfb59d9e5649540a28e8381",
+      "size": 20766
+    },
+    {
+      "path": "dark/share/enkephalin/all_in_assets.png",
+      "sha256": "d17b19e41b4ffbbcf69e0da23f9df812428a9c89298efbcfe551e2ece65dbabe",
+      "size": 19109
+    },
+    {
+      "path": "dark/share/enkephalin/enkephalin_cancel_assets.png",
+      "sha256": "ada3967a4f7a7ec8a8e6e5f183b10f36bbaefd95c006d1eacd5d73d63830a30b",
+      "size": 20175
+    },
+    {
+      "path": "dark/share/enkephalin/enkephalin_confirm_assets.png",
+      "sha256": "f4fb8df691fba4d747f71df0d9fb6d6df29e4d4b12e8c4e11be37d8d1ef4f4cb",
+      "size": 18840
+    },
+    {
+      "path": "dark/share/enkephalin/enkephalin_now_bbox.png",
+      "sha256": "0b1897d4f2d336932a397f3e397eb455747bc9fdef3c7b75d017d2ba7e94ba5e",
+      "size": 31030
+    },
+    {
+      "path": "dark/share/enkephalin/lunacy_assets.png",
+      "sha256": "269c8845a5ec540add435801c72ad0d653c32032ae287dc7debe9f880e5490c4",
+      "size": 33681
+    },
+    {
+      "path": "dark/share/home/back_assets.png",
+      "sha256": "9874085f1cd1c6b82acb799bb7ad1878e9e31fd742ccc41dfeb826c2a3fc8a4e",
+      "size": 24431
+    },
+    {
+      "path": "dark/share/home/drive_assets.png",
+      "sha256": "7511bd00687589ce169facebbfb63ea725e3d87fd44cd08122137d74ff0ec0d6",
+      "size": 35590
+    },
+    {
+      "path": "dark/share/home/inferno_bus_assets.png",
+      "sha256": "6efcce45e79683570a3f12aa61ec7a28968c958e91fc517f95ce3ba1820af6ea",
+      "size": 51204
+    },
+    {
+      "path": "dark/share/home/mail_assets.png",
+      "sha256": "a69f11d6c7ed298c855af28fd49264da79689b2c9e33739e6f8430d0104b5d3f",
+      "size": 23497
+    },
+    {
+      "path": "dark/share/home/window_assets.png",
+      "sha256": "abdc589606abd7b74571e9626656b6ffc47d0703f67870baa34ff9b534dcfee4",
+      "size": 35580
+    },
+    {
+      "path": "dark/share/luxcavation/exp_enter.png",
+      "sha256": "1e92ada8e03f9f6241817f5baae3d612e9504648d5c7ca85bde2f574bd93cb4a",
+      "size": 1544
+    },
+    {
+      "path": "dark/share/luxcavation/thread_consume.png",
+      "sha256": "5bf41fcc492101df6a361b2488378b33cc3a14ce49241a40a7b6a1eb0c522737",
+      "size": 2352
+    },
+    {
+      "path": "dark/share/luxcavation/thread_enter_assets.png",
+      "sha256": "65a92b33fd211e940119ae8ef65621664b675f42ee445c290636a4d758dc40e0",
+      "size": 19199
+    },
+    {
+      "path": "dark/share/luxcavation/thread_scroll_bar.png",
+      "sha256": "b570610d2ef197317c21b23c834d21168e029559c5d1c3243593c06ed8a838c1",
+      "size": 1114
+    },
+    {
+      "path": "dark/share/mirror/claim_reward/claim_rewards_confirm_assets.png",
+      "sha256": "a6fcfdbc6c3cb37e30d00f2563b7a38cc5bfb8d3351838beabb7acf607e5d459",
+      "size": 20162
+    },
+    {
+      "path": "dark/share/mirror/claim_reward/use_enkephalin_assets.png",
+      "sha256": "9df807ceefd1a443d74d5ac74e290034422c8064fe8a3195e2ce391b245ebb01",
+      "size": 19495
+    },
+    {
+      "path": "dark/share/mirror/road_in_mir/forfeit_assets.png",
+      "sha256": "a14b1949d27e3171be0b26fbf72612d5de63c8096c5a80159bd3f7efad29f592",
+      "size": 20690
+    },
+    {
+      "path": "dark/share/mirror/road_in_mir/to_window_assets.png",
+      "sha256": "09d7a7eb1f2ecf9012e7acd1c840812f41f67e54f9e1e1cd38f20ecf79fde6bb",
+      "size": 18965
+    },
+    {
+      "path": "dark/share/mirror/road_in_mir/towindow&forfeit_confirm_assets.png",
+      "sha256": "c23bb985a5e3c436e64bd1d46229259d5843e3f280dfbfe8d32564baa8bf6570",
+      "size": 19032
+    },
+    {
+      "path": "dark/share/mirror/road_to_mir/dreaming_star/dreaming_star_enter_assets.png",
+      "sha256": "4741807dc8b4f9809abdf974e5a013ec1dc6dc85e7c3dfe40c81d15f8fa85c84",
+      "size": 21040
+    },
+    {
+      "path": "dark/share/mirror/road_to_mir/enter_mirror_assets.png",
+      "sha256": "46e25e2e7a87c5c1fdbbf96cb1e34cf8fc2ec39c36274cda408b95ff6fcccf42",
+      "size": 20631
+    },
+    {
+      "path": "dark/share/mirror/road_to_mir/enter_mirror_confirm.png",
+      "sha256": "1394a819fed551a64da07ee703fd5c40e131733a78362da006170a0d2d9187e7",
+      "size": 2648
+    },
+    {
+      "path": "dark/share/mirror/road_to_mir/level_confirm_assets.png",
+      "sha256": "d2162917a9792d184b9fcea48609875b5db39fe9329f52d73e2a684f2f3940b2",
+      "size": 13357
+    },
+    {
+      "path": "dark/share/mirror/shop/leave_shop_confirm_assets.png",
+      "sha256": "a268ebe499d81a33272a6d74a02b8bfd83209485afe7fbbf35436c49bfb29502",
+      "size": 18898
+    },
+    {
+      "path": "dark/share/mirror/shop/sell_gift_confirm_assets.png",
+      "sha256": "7d57d76ba068b1aec4a48243f5b5681533128ad8dc392e19cc07d7b8137e383e",
+      "size": 18967
+    },
+    {
+      "path": "dark/share/scenes/story_skip_confirm_assets.png",
+      "sha256": "1823bb2573fa6cafac65af785e1dc2bfd36b2b787ebbb6b4ae13755d4dd89fc8",
+      "size": 18866
+    },
+    {
+      "path": "dark/share/teams/clear_selection_confirm_assets.png",
+      "sha256": "383a872ee76df3aae6ad3f236183e9bca86ca45e603cfc66ef70a838faa614ff",
+      "size": 19041
+    },
+    {
+      "path": "dark/share/teams/team_code_assets.png",
+      "sha256": "f36502cce0760d5234a2ac66bf0f8aa1de20e00ba08800e6c0408828081b00ea",
+      "size": 18126
+    },
+    {
+      "path": "dark/share/teams/team_code_cancel_button_assets.png",
+      "sha256": "66710a23100bbac879934568240288313c554ee9109fc477cb0ca9c481a453a4",
+      "size": 18802
+    },
+    {
+      "path": "dark/share/teams/team_code_confirm_button_assets.png",
+      "sha256": "3313bc94372ee0ce0e1a0f41889ef40d11eaf6cca9fd3fd911f7b34943529c35",
+      "size": 17895
+    },
+    {
+      "path": "dark/zh_cn/enkephalin/use_lunacy_assets.png",
+      "sha256": "522e439470b3585c8a1177c6d5e4fe740e5ed5559e6a273c5f91764aba723db2",
+      "size": 26206
+    },
+    {
+      "path": "dark/zh_cn/mail/claim_all_assets.png",
+      "sha256": "a5c942c37af7324b71d7db1eba6470597cb3f10e7b5c447f57913d9b173495f8",
+      "size": 23330
+    },
+    {
+      "path": "dark/zh_cn/mirror/road_to_mir/resume_assets.png",
+      "sha256": "40b597510567b16db98acd2814390a17cda5ffa454597c5ea876606b7e8b97a5",
+      "size": 25538
+    },
+    {
+      "path": "default/en/base/notification_close_assets.png",
+      "sha256": "63269c36b24856374175041a032f76b9f4836c590e73f95254de5019475e849a",
+      "size": 30454
+    },
+    {
+      "path": "default/en/base/retry.png",
+      "sha256": "dc76bf1763b5174c398f46a16deac0f17fb02e26b1c9112b44e58f20375b2b70",
+      "size": 2527
+    },
+    {
+      "path": "default/en/base/retry_countdown.png",
+      "sha256": "1a3eba7177594499fa1d0b0a2acc29aa7e42c3feea7199e9985780ea48b90529",
+      "size": 4255
+    },
+    {
+      "path": "default/en/base/try_again.png",
+      "sha256": "edcc1514d888001029cfcaade7c16df0854b65637bc3829097c14fc18aec0d37",
+      "size": 22219
+    },
+    {
+      "path": "default/en/battle/chaim_to_battle_assets.png",
+      "sha256": "0e34a2d03786082b52e96d13b14df20820c4024ba632b8d22b2f3374d4d63b79",
+      "size": 22577
+    },
+    {
+      "path": "default/en/battle/dead.png",
+      "sha256": "3dc5aa4c2a4ab8e93f7d2d3f7acdc7f623afe888d993fa179dc486c391094fa9",
+      "size": 1460
+    },
+    {
+      "path": "default/en/battle/normal_to_battle_assets.png",
+      "sha256": "e7af987016dc917f8126685b27d0d68dd3894d17a4d26561b5cdcbe27f764a8d",
+      "size": 31522
+    },
+    {
+      "path": "default/en/battle/select_none_assets.png",
+      "sha256": "fa16db742b1be57c156ba8a759eaa66218e7e9a41365de5329ef0ebe6f69b288",
+      "size": 177048
+    },
+    {
+      "path": "default/en/enkephalin/use_lunacy_assets.png",
+      "sha256": "d08b2e76b0752be0ddfd969ad674e96d1e23961181a1060b2e154e4548ae5143",
+      "size": 27866
+    },
+    {
+      "path": "default/en/event/advantage_check.png",
+      "sha256": "f507751b2de1c89992eca2a96889aed9db3a7c93d0c0d785e59c59f8f5e782a1",
+      "size": 6598
+    },
+    {
+      "path": "default/en/event/choices_assets.png",
+      "sha256": "dc17658c11b1720dfb239306551811cae24a0aa47a85d3d7eef4c2baba7d79e7",
+      "size": 38904
+    },
+    {
+      "path": "default/en/event/commence_assets.png",
+      "sha256": "43099b188b37e1857e5b558a93dc93255e7b4446eaec6681a9872012d7dcdccd",
+      "size": 54488
+    },
+    {
+      "path": "default/en/event/commence_battle_assets.png",
+      "sha256": "29728d43784f16d24b364441c8014461777e04b265a0430b1bf36f8b61a647e5",
+      "size": 52683
+    },
+    {
+      "path": "default/en/event/continue_assets.png",
+      "sha256": "e9713843559413702e1de7fd9e52285322bfc84f5ecb24e247f49f9b8bc0e5f8",
+      "size": 55721
+    },
+    {
+      "path": "default/en/event/gain_a_ego_depending_on_result.png",
+      "sha256": "cbcf2b2fea92a8ab2d225a234ce6551bd94c566d5dc3e256196b4546638cf4fb",
+      "size": 9354
+    },
+    {
+      "path": "default/en/event/high.png",
+      "sha256": "0fde33827246dfde3ab91d27ff59472b9ac2b73f73ebcf73721fe738ad643820",
+      "size": 3675
+    },
+    {
+      "path": "default/en/event/low.png",
+      "sha256": "fdebcf7abb2634f3ef3b431d4ec55a276d2a2f9779c38e10dd7bc815ef0ca33b",
+      "size": 3243
+    },
+    {
+      "path": "default/en/event/normal.png",
+      "sha256": "eb720047f12e9cb3eca5ec361db9b21524acbf7872087bae94ffec0a43769c62",
+      "size": 6003
+    },
+    {
+      "path": "default/en/event/proceed_assets.png",
+      "sha256": "5914c8fea6d36ae3ec7c1e093abb2e26add79ba6d7690e890dc57532bbaef245",
+      "size": 52410
+    },
+    {
+      "path": "default/en/event/select_to_gain_ego.png",
+      "sha256": "702f3cb9185f5871cc4b3e7314e5c045ff4ca7d5aa6742c32a6454b57812d82d",
+      "size": 5494
+    },
+    {
+      "path": "default/en/event/very_high.png",
+      "sha256": "1b67356b2efbb3b224868191ff00dff57011e7f232b47fdcc2cea7ca891ae83b",
+      "size": 6904
+    },
+    {
+      "path": "default/en/event/very_low.png",
+      "sha256": "ec5424ef51888832737d5105da573754bbced8ef4eca2ad5bd696889741963f8",
+      "size": 6142
+    },
+    {
+      "path": "default/en/home/luxcavation_assets.png",
+      "sha256": "ff36355658aabbf0303a969953d0aff25e940d9c79fca01e4a07e919a24995f2",
+      "size": 32656
+    },
+    {
+      "path": "default/en/home/mirror_dungeons_assets.png",
+      "sha256": "65bef38537025c68cec7686774514c64bb73f6cd110586e0be0087e03d4f9260",
+      "size": 28480
+    },
+    {
+      "path": "default/en/mail/claim_all_assets.png",
+      "sha256": "f21bd83ef03c8da69dfe8f54f786055b402da399aea73f410119eae258ca732d",
+      "size": 31723
+    },
+    {
+      "path": "default/en/mail/close_assets.png",
+      "sha256": "ecc93ece388c7fb1b30777e632bd1befb467f7f0c1d51df767fdcbfa7e3d4bf5",
+      "size": 25143
+    },
+    {
+      "path": "default/en/mirror/claim_reward/claim_forfeit_assets.png",
+      "sha256": "bdaffc3c68d02bbbe855589c33451d4691aa6a3092744701ee7bea55fb85ed55",
+      "size": 20929
+    },
+    {
+      "path": "default/en/mirror/claim_reward/use_enkephalin_assets.png",
+      "sha256": "eecb8361a6a61e20b351211d6a6d719159f8ee02d6f6b9e520b1f00a723261fc",
+      "size": 20706
+    },
+    {
+      "path": "default/en/mirror/road_in_mir/acquire_ego_gift_select_assets.png",
+      "sha256": "dbb13dc3e8158af2d83a8aed587c5338b241c72e54aebdfebe632d66408715a4",
+      "size": 21683
+    },
+    {
+      "path": "default/en/mirror/road_in_mir/refuse_gift_assets.png",
+      "sha256": "421559a36826264d593a0007144cc260cfa963c44655ccdb25ab925241fb7f67",
+      "size": 22494
+    },
+    {
+      "path": "default/en/mirror/road_in_mir/select_encounter_reward_card_assets.png",
+      "sha256": "0d39a4a99f87a5b24944d3207a215362f1097669b0da86d3d4370a2497543ab2",
+      "size": 91181
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/bleed_gift_assets.png",
+      "sha256": "d4400aa443215fa7972695034acd45c2da356aa3ac8f2783c68e36a10bad1a2c",
+      "size": 21710
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/blunt_gift_assets.png",
+      "sha256": "c7d1a7b91f3c47a5ba9e52d3c85253130e1f9ad9706bd9bbdd091a16b5ee87c4",
+      "size": 21361
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/burn_gift_assets.png",
+      "sha256": "e98c6e9dd8fad261518739727ed092a1fc5190a685e018f08be6a2d884d27380",
+      "size": 20970
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/charge_gift_assets.png",
+      "sha256": "9d9a78092f32e14962cb268e01bd870286454b8879f3bb154125f2dbc546a908",
+      "size": 23122
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/enter_assets.png",
+      "sha256": "b075a72a2f7fcf3601207dce9d6e8dbc23b4c74ae1a6b58d5f86efdfd6c2711c",
+      "size": 43506
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/pierce_gift_assets.png",
+      "sha256": "71444f12e0c410bdf19966b48ce633987e2b085c8f6b0b8a95a4fc7af085117a",
+      "size": 22219
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/poise_gift_assets.png",
+      "sha256": "aa396b111407a7aa319563d8214161e5170a8dcbf2f14816472367cb368f08cd",
+      "size": 21677
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/resume_assets.png",
+      "sha256": "94818c703f6aa1b76356008c69730b8fadb0da07f0c629c830911185deb33378",
+      "size": 46297
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/rupture_gift_assets.png",
+      "sha256": "c4c75a59a3fba13ec178bcbe7cba9bfb2dfdcb1e2c22e46d808d2ac038c7f219",
+      "size": 23096
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/select_all_stars_assets.png",
+      "sha256": "d271c60a707671177668ad643ca056babc9056c06732d5c7b94db76f487ffa9b",
+      "size": 25657
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/select_init_ego_gifts_confirm_assets.png",
+      "sha256": "7bcf21133b2db9f2232996fed7bb8161eea0ad3f516c40e4899d738395655778",
+      "size": 26016
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/select_team_confirm_assets.png",
+      "sha256": "21b5d5d6978ea9a4baaf980757fa0e12304ab2c3e3cdf6e6892820c2321bd3b4",
+      "size": 29317
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/sinking_gift_assets.png",
+      "sha256": "000a9fd47bf3bfef4650bd783379aa674d1ab57872dbc34ac20fbfbc1f951e14",
+      "size": 22739
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/slash_gift_assets.png",
+      "sha256": "d6c0a3ebaf664eb6b2d026f03c49e3479109d957196bdf4cb720679a7f72b1c3",
+      "size": 21966
+    },
+    {
+      "path": "default/en/mirror/road_to_mir/tremor_gift_assets.png",
+      "sha256": "f3dd83f42b7ed01d0b51f8f7a5b280c92403b3e8df94765c5b1fd44743389735",
+      "size": 21889
+    },
+    {
+      "path": "default/en/mirror/shop/ID_skill_replace_0_purchased_assets.png",
+      "sha256": "e8e612fce9f0add761a0e6d7c24f23ad6db954ad80bfef6c1933573326c7017e",
+      "size": 24320
+    },
+    {
+      "path": "default/en/mirror/shop/ID_skill_replace_1_purchased_assets.png",
+      "sha256": "4f42651005225b23469980bb7b3ce1f3412588177f04f7e20697b4fa78b623a8",
+      "size": 24302
+    },
+    {
+      "path": "default/en/mirror/shop/ID_skill_replace_2_purchased_assets.png",
+      "sha256": "60522718adb026fc7fa967f9618b11cb16657b52c2d98a7ea8dcff7a8c14e06c",
+      "size": 24321
+    },
+    {
+      "path": "default/en/mirror/shop/fuse_ego_gift_assets.png",
+      "sha256": "eb29df73add76ef59e92e93a595c8b94a71892f1a808975a6ad51b8409a56d00",
+      "size": 52310
+    },
+    {
+      "path": "default/en/mirror/shop/heal_sinner/heal_sinner_return_assets.png",
+      "sha256": "ecb100dad08e5cc3cae66ae8f1405262283b54b249068aa1cc235fe574960936",
+      "size": 44755
+    },
+    {
+      "path": "default/en/mirror/shop/leave_assets.png",
+      "sha256": "e4a5c49d8749ca802ba4280919a4dc4e41e9f31ea4e057cfa531cc810b30eb5c",
+      "size": 53722
+    },
+    {
+      "path": "default/en/mirror/shop/power_up_assets.png",
+      "sha256": "2f72bcc007d728d0409f9580e6c205295be625596004e7d47d41f3abeb95368f",
+      "size": 21286
+    },
+    {
+      "path": "default/en/mirror/shop/power_up_confirm_assets.png",
+      "sha256": "b25722c1c2ad1d4a5bffe8d11ce9127cc25d042727c5a463bfdabab0203eb399",
+      "size": 20705
+    },
+    {
+      "path": "default/en/mirror/shop/purchase_assets.png",
+      "sha256": "fafa71067dbed14973c6f3fd6f19f7ad9aa630fceabcf0f6ce35e92e35c59866",
+      "size": 21254
+    },
+    {
+      "path": "default/en/mirror/shop/return_assets.png",
+      "sha256": "722dce142223b6e2a32cce55a3779d211f0da287000b1acd4b90d8eeccc06641",
+      "size": 74685
+    },
+    {
+      "path": "default/en/mirror/shop/super_shop_assets.png",
+      "sha256": "42f5b6e4ace0dbb414723ee415a9647ebf19d8a1c3d1aac4bace1fbf0cdc048e",
+      "size": 30871
+    },
+    {
+      "path": "default/en/pass/pass_missions_assets.png",
+      "sha256": "d6d7bffe2cda8325f2c2ce86602e837bf1d108467c77e8b49f5323962848184e",
+      "size": 26459
+    },
+    {
+      "path": "default/en/pass/weekly_assets.png",
+      "sha256": "f0ed7b5033fc91fb971211c289cdc47be6b9c2dcbf9ab3bb3731353947a474f4",
+      "size": 26649
+    },
+    {
+      "path": "default/en/teams/clear_selection_assets.png",
+      "sha256": "cc9c0e2b08e5070ea9b25f64867876886cea433198c300dd503b405c5a4b57cd",
+      "size": 20233
+    },
+    {
+      "path": "default/en/teams/load_team_code_button_assets.png",
+      "sha256": "e2641dbf5dabbb7226eff2af6d53b050b95d2bcd9278abac42c30219ab22f456",
+      "size": 82992
+    },
+    {
+      "path": "default/share/base/clear_all_caches_assets.png",
+      "sha256": "d80e21234cec4451698a58a2ffaa8b8ef00466ba19a97ae7833f1163f5aa2e44",
+      "size": 19061
+    },
+    {
+      "path": "default/share/base/connecting_assets.png",
+      "sha256": "5b544a96839b53aaaa03d746b496d974b3de285f945bbb6026ac290211b441b3",
+      "size": 27885
+    },
+    {
+      "path": "default/share/base/leave_up_assets.png",
+      "sha256": "169c8194f3b1498e53eb56f1255f99306f247bedf23815814d8a5f778418ecdc",
+      "size": 26592
+    },
+    {
+      "path": "default/share/base/leave_up_confirm_assets.png",
+      "sha256": "ad8013e04a1d7fad84cc45d37bbe1ace0046051ab707a65ea4199ea8a15f5054",
+      "size": 19753
+    },
+    {
+      "path": "default/share/base/only_option_assets.png",
+      "sha256": "46f85fb8d0544f4f987a7ac20e93dac54817f79a9b90385fd2b61839efc7cfda",
+      "size": 22195
+    },
+    {
+      "path": "default/share/base/renew_confirm_assets.png",
+      "sha256": "f88bc9a63cbbf4028fbf93e78fb8d8e3990d4c17b8b7dba9548c67721f155599",
+      "size": 21961
+    },
+    {
+      "path": "default/share/base/update_close_assets.png",
+      "sha256": "0b3b2d389f91ad79ac4bd833ad94998adab7f180ced555f30d9f5a2bc9a5755c",
+      "size": 24159
+    },
+    {
+      "path": "default/share/base/update_confirm_assets.png",
+      "sha256": "3ab0326e29e3eb5411ae874e1016dd4c5ab7f62f39743e01e4d371b46b4612e9",
+      "size": 25523
+    },
+    {
+      "path": "default/share/base/waiting_2_assets.png",
+      "sha256": "d8fcb58e0a240c81f3b0a578f1ba19496c53957b5eef20c72759ed3a92c39ea4",
+      "size": 18934
+    },
+    {
+      "path": "default/share/base/waiting_assets.png",
+      "sha256": "32489ca26eaa08d07784f49ae197558ec4befa8d6babb4e8176bd8cbfcf67f95",
+      "size": 19156
+    },
+    {
+      "path": "default/share/battle/battle_finish_confirm_assets.png",
+      "sha256": "fb8d41f2f4e30846d54686694fbdc724a68a37522be11acc17ab99d0c85261ff",
+      "size": 22931
+    },
+    {
+      "path": "default/share/battle/clear_rewards_EXP_1_assets.png",
+      "sha256": "e9e6111e9bbb944e737e276d474886f9256a74bf4dc974bd3c31b0e8c389e0c8",
+      "size": 30249
+    },
+    {
+      "path": "default/share/battle/clear_rewards_EXP_2_assets.png",
+      "sha256": "877b7f8a53a306666f0dcfc8adf901570e0aa60855712f0571843fec1f0df03c",
+      "size": 30725
+    },
+    {
+      "path": "default/share/battle/clear_rewards_EXP_3_assets.png",
+      "sha256": "aad88b556afe42b297cdea8736861a2e768f0185be015a65629b8b5b7103789c",
+      "size": 31062
+    },
+    {
+      "path": "default/share/battle/clear_rewards_thread_assets.png",
+      "sha256": "514e9517cb5be820ebb9b652433a06d6f786c06e1b01e394c5371ee6e1b3a8c8",
+      "size": 27569
+    },
+    {
+      "path": "default/share/battle/continue_assets.png",
+      "sha256": "c260a560d0d4027bf8998efb81af1c33c9cbdad7914ffab0bacb7fddd640ea66",
+      "size": 20446
+    },
+    {
+      "path": "default/share/battle/dead_all.png",
+      "sha256": "9912740bbfcd35bfa36ea209d4599e9b682abdca590e1491dd19f9cdcace6caf",
+      "size": 5012
+    },
+    {
+      "path": "default/share/battle/dead_all_confirm_assets.png",
+      "sha256": "d63afb81d5b447de3efea7d55ae9552801ee436afa68e48cddaac83d2117c476",
+      "size": 19646
+    },
+    {
+      "path": "default/share/battle/gear_left.png",
+      "sha256": "768fc09ffbef399ac1aa5e3166e15d5929630869e6de62259a2b3dbae0852b80",
+      "size": 3313
+    },
+    {
+      "path": "default/share/battle/gear_right.png",
+      "sha256": "7e67dbf602a1b39818c1459d434a4504f70c0517ae0a8d4e1959a483e19df3a1",
+      "size": 13491
+    },
+    {
+      "path": "default/share/battle/give_up_assets.png",
+      "sha256": "69e199c416ea55813e28a03daafd42db7007a5b8fdb109e21e8b44ec22dc87f0",
+      "size": 26025
+    },
+    {
+      "path": "default/share/battle/in_mirror_assets.png",
+      "sha256": "0b66879068336b0ec7373ae9a5ceab993ee9526d00309d53debce0afc551cd9b",
+      "size": 26075
+    },
+    {
+      "path": "default/share/battle/more_information_assets.png",
+      "sha256": "2087206ce8982293f865186e4871ed1f306858171b35b4c86f72d760a503af59",
+      "size": 20832
+    },
+    {
+      "path": "default/share/battle/normal_give_up_assets.png",
+      "sha256": "4e89a7520672aefa13b638f000e905c31e122c8b8515ab368a62d36107fbc1ad",
+      "size": 24036
+    },
+    {
+      "path": "default/share/battle/pause_assets.png",
+      "sha256": "a89ff48d321092dc9b42360d6cd1b38f8f3b21600e795f2f130c68be3f8d3980",
+      "size": 22948
+    },
+    {
+      "path": "default/share/battle/setting_assets.png",
+      "sha256": "a954470bdccc49c36c4038a1cad48dc8d52609fc604f37c13c532dde2efb888d",
+      "size": 24636
+    },
+    {
+      "path": "default/share/battle/turn_assets.png",
+      "sha256": "1d2837d5d8cc988bd9197180025f4d8cfa113f6aa3180cd9992d12855c36cab0",
+      "size": 22738
+    },
+    {
+      "path": "default/share/battle/turn_ocr_assets.png",
+      "sha256": "d62c04104653d7657f2b608303e6b151a18471a98be645fc337607b3786bfe73",
+      "size": 23651
+    },
+    {
+      "path": "default/share/battle/view_status_assets.png",
+      "sha256": "634bfa1be83e563fad7764f9abea32a7836fec00e387ab58da6c42325e9a0345",
+      "size": 30690
+    },
+    {
+      "path": "default/share/battle/win_rate_assets.png",
+      "sha256": "e718cc258fd2699f79f02c0f39e89301fde49e0c6e187a226700013c952e4b73",
+      "size": 20076
+    },
+    {
+      "path": "default/share/battle/win_rate_card.png",
+      "sha256": "01fcb41a053534ea97a2269136d3089841c5c0247797e5d76657afb685b0bc22",
+      "size": 5626
+    },
+    {
+      "path": "default/share/enkephalin/all_in_assets.png",
+      "sha256": "64bc485da1cd0570251628f125e98746349ab31b079a2330b12a0fdf2ea863b5",
+      "size": 22096
+    },
+    {
+      "path": "default/share/enkephalin/enkephalin_cancel_assets.png",
+      "sha256": "8e65c361634dcdc486f562422b13145cbb6414c7e66777ca9ffb7bb9f209c8c0",
+      "size": 22146
+    },
+    {
+      "path": "default/share/enkephalin/enkephalin_confirm_assets.png",
+      "sha256": "cab71f7b83192b24daa61d1139114a0ac3abc7c1df524cc600a0b92ff9f5de0a",
+      "size": 21817
+    },
+    {
+      "path": "default/share/enkephalin/enkephalin_now_bbox.png",
+      "sha256": "f96128e7f84b01dfee2139b0611de9cb307f9bd7b8746c9f8abfe8639dfdd356",
+      "size": 58843
+    },
+    {
+      "path": "default/share/enkephalin/lunacy_assets.png",
+      "sha256": "8506924c1183ef2ec8aa93ba2422c201ef3e138d234b1eac358547c1fedcc328",
+      "size": 43757
+    },
+    {
+      "path": "default/share/enkephalin/lunacy_spend_26_assets.png",
+      "sha256": "e7f7c05da6ac194440b90e466cabb590511bcf6a1081d8b54a543e48b93986b1",
+      "size": 33811
+    },
+    {
+      "path": "default/share/enkephalin/lunacy_spend_52_assets.png",
+      "sha256": "6c8283b381bafe7c4f361a65188bd6912dc9b42cbd65bf602ce2a89825e1682b",
+      "size": 31643
+    },
+    {
+      "path": "default/share/enkephalin/lunacy_spend_78_assets.png",
+      "sha256": "77efa331d9576b19e1a0cb821ef1998d794d8abe028b4e639f69074ab02ebbf6",
+      "size": 34032
+    },
+    {
+      "path": "default/share/event/perform_the_check_feature_assets.png",
+      "sha256": "3e795bd3c0371358dc391dd82e73fe335823d42396dd8a030d5658f6c2c3ef93",
+      "size": 40179
+    },
+    {
+      "path": "default/share/event/select_first_option_assets.png",
+      "sha256": "ad44a3dca9498dace39962f8f08dc7e4472bdcd4546bb2500c66a5766c3ca385",
+      "size": 19886
+    },
+    {
+      "path": "default/share/event/skip_assets.png",
+      "sha256": "6d17cad3aaa76a740a6d66b349397f8867e39ed7bb4a45351ae211ea16776d4b",
+      "size": 92693
+    },
+    {
+      "path": "default/share/event/unknown_event.png",
+      "sha256": "6e0df8091f7f7a2e657a1a6f7600283ed8c5deda5aac742562b0251e2ec9da6a",
+      "size": 1949
+    },
+    {
+      "path": "default/share/home/back_assets.png",
+      "sha256": "12f1b6e2f7a18efd00928ea65253f203fc342ee247a06f1cb451f053ee83acca",
+      "size": 26487
+    },
+    {
+      "path": "default/share/home/close_anniversary_event_assets.png",
+      "sha256": "ef1a998067688b96fe944e7b8d5179caf932c166cdf49037c1b63a59235c5277",
+      "size": 27331
+    },
+    {
+      "path": "default/share/home/drive_assets.png",
+      "sha256": "461eefa73284805dea5dabd3446770b0729a6bac38952bb5bafe6e8d55bf4ced",
+      "size": 27275
+    },
+    {
+      "path": "default/share/home/enkephalin_box_assets.png",
+      "sha256": "09bfe488e26eb9c87dbf19a2681a8855c875d044451d19443a7d35d9e3fe52cb",
+      "size": 30034
+    },
+    {
+      "path": "default/share/home/first_prompt_assets.png",
+      "sha256": "febdc8ee196ab014750c212f962a1c0b9c403633ed232b3205ca5132947757ba",
+      "size": 26629
+    },
+    {
+      "path": "default/share/home/inferno_bus_assets.png",
+      "sha256": "a9ad75ae45ae8872e82ad311d770de03d540306d1404bb55b78db9bef1628ebd",
+      "size": 48787
+    },
+    {
+      "path": "default/share/home/mail_assets.png",
+      "sha256": "61cff8ba9c7b9f152e39678c7c9fe3ca326f03a238e67875564ae4ff8c9147ac",
+      "size": 24565
+    },
+    {
+      "path": "default/share/home/season_assets.png",
+      "sha256": "9aa9c404a860d1bfdf8b3bfaac6ca4aa09b1f85d1dcc392dc2f10717ed82e14c",
+      "size": 52383
+    },
+    {
+      "path": "default/share/home/window_assets.png",
+      "sha256": "cd792a2430050215c83c4bd5d5e42b4e05268aa5a8fc5b0053e0c3f2ec229c72",
+      "size": 27974
+    },
+    {
+      "path": "default/share/luxcavation/continuous_combat.png",
+      "sha256": "01608f6e96f73a3eba76a6fbd2f8e879e4cbf5930ccc678f8acdda1649531825",
+      "size": 998
+    },
+    {
+      "path": "default/share/luxcavation/exp_enter.png",
+      "sha256": "444755d11ec417532ae64631e495dfd91936985270386aeee0b5f01ecb626cfb",
+      "size": 3644
+    },
+    {
+      "path": "default/share/luxcavation/thread_assets.png",
+      "sha256": "5876837e9cac5dcbe80f70b7374b434a9b440965c7383928584d9a90edb7f8bc",
+      "size": 29893
+    },
+    {
+      "path": "default/share/luxcavation/thread_consume.png",
+      "sha256": "390275f890110fd80b75f6779f6a0ad40137156542fe7c57dc5a0342112d93ea",
+      "size": 5888
+    },
+    {
+      "path": "default/share/luxcavation/thread_continuous_combat_show_box_assets.png",
+      "sha256": "3b64a5656178e944a2a0551f9bc7b01651d0a1c25482de2ad71b5c64e676b399",
+      "size": 19205
+    },
+    {
+      "path": "default/share/luxcavation/thread_enter_assets.png",
+      "sha256": "2912599eacfaaf29525020d763420bf8ecc38657e9fb4ee6c11a1c0e0435989c",
+      "size": 22487
+    },
+    {
+      "path": "default/share/luxcavation/thread_scroll_bar.png",
+      "sha256": "a353065d73df0607f162c60818ddd4563c538313a5eb04592e08ef462e8411ee",
+      "size": 2202
+    },
+    {
+      "path": "default/share/mail/get_mail_prize_confirm.png",
+      "sha256": "a7e8ed6ed0ccc7a8c5fe6d9ad9188249bb5e93359dcd387ba537d3e32f5c38c7",
+      "size": 2499
+    },
+    {
+      "path": "default/share/mirror/claim_reward/battle_statistics_assets.png",
+      "sha256": "ff6c483c5a90156a5fa236222acca1b250a0abb32c0bb9cdb20c77288498e2ec",
+      "size": 20416
+    },
+    {
+      "path": "default/share/mirror/claim_reward/claim_rewards_assets.png",
+      "sha256": "432fcd373ebaf2b2fc703cafe53e1aa7fd13206554e947bb5da248a0184289fe",
+      "size": 19223
+    },
+    {
+      "path": "default/share/mirror/claim_reward/claim_rewards_confirm_assets.png",
+      "sha256": "b6bf2297108107df12f17054c07b08767bfeb4867300db291ce14adb6d15f3a2",
+      "size": 20958
+    },
+    {
+      "path": "default/share/mirror/claim_reward/clear_assets.png",
+      "sha256": "5bca836102ea6669de4d290a7bc7eb089cddf78746e09ae51a388b85e8555a2d",
+      "size": 41512
+    },
+    {
+      "path": "default/share/mirror/claim_reward/coins.png",
+      "sha256": "b6ed7f05c036468af9d934290a3936316c4a40240c5abe57fa7d89c9bbe0255f",
+      "size": 4334
+    },
+    {
+      "path": "default/share/mirror/claim_reward/coins_bbox.png",
+      "sha256": "fdefa154653a8abaf80c5718975021884dcc04fe465cd238777b4a2c3a0acafb",
+      "size": 33460
+    },
+    {
+      "path": "default/share/mirror/claim_reward/complete_mirror_100%_assets.png",
+      "sha256": "92fbaddb1888c98b4458ddccb12da1863822ada842a4d27d74c4fca621914f74",
+      "size": 29674
+    },
+    {
+      "path": "default/share/mirror/claim_reward/rewards_acquired_assets.png",
+      "sha256": "ec5fefaf89c9ea72902a3acb86029aaa452c5f3652f8f9faf8e5ed2980ff3cf3",
+      "size": 19132
+    },
+    {
+      "path": "default/share/mirror/claim_reward/weekly_bonuses.png",
+      "sha256": "70a00fe039b6a4239f374c91f625204a04fcb24993c397a4e1278af96b3d6be4",
+      "size": 1034
+    },
+    {
+      "path": "default/share/mirror/get_reward_card/continue_choosing_assets.png",
+      "sha256": "594dabe8ee7e12050a3059dbfc627f82e8dc9d46f5f5de340ead4a5d28459499",
+      "size": 19488
+    },
+    {
+      "path": "default/share/mirror/get_reward_card/gain_cost.png",
+      "sha256": "284bed9fd441926e80db6101859a1f2240b6bea9cd1f9c3ef800763e05617348",
+      "size": 19547
+    },
+    {
+      "path": "default/share/mirror/get_reward_card/gain_cost_and_ego.png",
+      "sha256": "97f380c5e2c3af559d24b21d823d671c6af3cac7c69460940a51d28607012b3f",
+      "size": 13205
+    },
+    {
+      "path": "default/share/mirror/get_reward_card/gain_ego.png",
+      "sha256": "ff99f76b6c8966405af275de0819e447bca925970505a5d3a2a0f2e066fe06af",
+      "size": 13774
+    },
+    {
+      "path": "default/share/mirror/get_reward_card/gain_ego_resource.png",
+      "sha256": "6268f30a51059baf04729e00f731a09d330c7064c31ab329a89d5e922e47531b",
+      "size": 14955
+    },
+    {
+      "path": "default/share/mirror/get_reward_card/gain_starlight.png",
+      "sha256": "0265d0274b44300f9e624240a0adafcf90a47ef32a992da6b9a27a055ff707f2",
+      "size": 10735
+    },
+    {
+      "path": "default/share/mirror/get_reward_card/get_reward_card_confirm_assets.png",
+      "sha256": "5913c0bd262e96a5ba073aebb566cc830a8d289d76025c4f4ca2bccfce1baa58",
+      "size": 19029
+    },
+    {
+      "path": "default/share/mirror/infinity_mirror_assets.png",
+      "sha256": "7484732f4f897a0b5f3df7d1598008394bd0f83c6a969b7a4641a896a6a89b41",
+      "size": 27039
+    },
+    {
+      "path": "default/share/mirror/infinity_mirror_close_assets.png",
+      "sha256": "045688874d28bcfe1cd238c9f3de0a211dedfa8c3c2b8c91a48b8fe62794b9e2",
+      "size": 19525
+    },
+    {
+      "path": "default/share/mirror/mybus_default_distance.png",
+      "sha256": "57da79a12c33932be2146f9bbe40b6ed5caf68398d0e79156287982a629fa47e",
+      "size": 7220
+    },
+    {
+      "path": "default/share/mirror/mybus_maximum_distance.png",
+      "sha256": "cb1f6cccd2dfd173b07243b1600ab5f4b79c4405aa4d0f9a93c1b84ced32240a",
+      "size": 2349
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/acquire_ego_gift/bleed.png",
+      "sha256": "9aea3289a20dabaa3df4dbc1c543627883adeacc0d5c256b0d1c3845d35f1d73",
+      "size": 2624
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/acquire_ego_gift/blunt.png",
+      "sha256": "18e87b03ead37664150b920d7da3799fe934845fbbd1baf38a1c420bd1f8831f",
+      "size": 2783
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/acquire_ego_gift/burn.png",
+      "sha256": "cd946de528d4edac6730834d00cdab8a695fee5233b43a04bd6b3060364975e7",
+      "size": 2106
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/acquire_ego_gift/charge.png",
+      "sha256": "139874e26de2869a23f9a1baade98f85cdf95cd99172d35e0ebd0071534b770b",
+      "size": 2979
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/acquire_ego_gift/pierce.png",
+      "sha256": "82072cc31281c8c5c1d163bc1cb97399eb73c43e9b8af0da5b10f9e15675f709",
+      "size": 2258
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/acquire_ego_gift/poise.png",
+      "sha256": "596f070f94e8fd63a816f09413b35067588ed2cbd6facf6377a554200066e51a",
+      "size": 3142
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/acquire_ego_gift/rupture.png",
+      "sha256": "07384e21c3185ea570fd17ee04299c8e2c4a51dd7a2120b3b4b594cc93c381e7",
+      "size": 2128
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/acquire_ego_gift/sinking.png",
+      "sha256": "b6687f7f0c88b47759d8f7cefb06ade34e0665828d008d4e04412396a3c8dc80",
+      "size": 2283
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/acquire_ego_gift/slash.png",
+      "sha256": "993622c6f9ca8aea98a02fd9903cad6858a0bc4fbcf92b172ec22e3e2fa55ddc",
+      "size": 2779
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/acquire_ego_gift/tremor.png",
+      "sha256": "d8c84cdc40e24caf4090d3c490fa1f9386376e42b6b404426c1a52ac64349585",
+      "size": 3145
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/acquire_ego_gift_box_assets.png",
+      "sha256": "20dfa82192bc7c2ec7098669ed0e20266bf7215e3fba5ab6a96876a087cf16d9",
+      "size": 28877
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/acquire_ego_gift_card.png",
+      "sha256": "bd639c000665c25fa9ec2df501a0c26774a0f5a2df355ac4e269cce5bb9e8d8e",
+      "size": 6612
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/acquire_ego_gift_refuse_assets.png",
+      "sha256": "74c70a32e8705a784b81e8bbdbab3e6df95ffbcb635171f13f102bc1e078139e",
+      "size": 35402
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/battle.png",
+      "sha256": "bb44e365a2041d2e60f42d94b2b0b5ddb1d420338ed1335d06734d34b1455280",
+      "size": 17838
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/ego_gift_get_bbox.png",
+      "sha256": "8fb18f25e5128dc365e9996e41b2d69cbffb450d528b031246918e4173c21fec",
+      "size": 20527
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/ego_gift_get_confirm_assets.png",
+      "sha256": "7c2d0f07f79e73936c694c7ac32ebc30822db277f2bfad8e0e72457777df014c",
+      "size": 21954
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/enter_assets.png",
+      "sha256": "b5c3765e52b46ac36048b1c914b17dddc006b2c260281c79587d50998a61d20e",
+      "size": 20627
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/event.png",
+      "sha256": "123d669e0d9ec2bd0f2b160a74eb623c3000b72fdcf9c922bef1ed5372553056",
+      "size": 9380
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/event_effect_button.png",
+      "sha256": "737bbcf3ff0cf305d0d9d6abc460fbbb12709ca45111d5dfbc7042968dbf9282",
+      "size": 9503
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/forfeit_assets.png",
+      "sha256": "ee1f67956bbfc193c5c7edb798964b75ba8445dddb963712bd41ef10740b6fc5",
+      "size": 27725
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/get_floor_bbox.png",
+      "sha256": "c06f71a018b2bf24159cddbbf93917069e8ade79c9d21e3a394f0d204c0f4159",
+      "size": 46755
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/hard_battle.png",
+      "sha256": "94b0e01770151e6d7422abed383ba1329e8ebddb37e5a3005587a58b4c263f19",
+      "size": 13476
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/hard_battle2.png",
+      "sha256": "ff6095d203d26062afa36c2909bbced14b5afe1926d0581cc6a51beb28a5699d",
+      "size": 8533
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/legend_assets.png",
+      "sha256": "f7b52599038f8bd8154118bd36062bb553eb253189cc4defe1f85373e8e7683e",
+      "size": 22612
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/refuse_gift_confirm_assets.png",
+      "sha256": "e5f404fee345cd2d9574f8203de54499ec25d530c385a5a15422da7fcb9f6fc7",
+      "size": 20688
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/select_event_effect_confirm.png",
+      "sha256": "3ea45bff062a4d60521cd496e53cf4c0c33701166216a1e2d3bfbb7b4b21efa7",
+      "size": 1023
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/setting_assets.png",
+      "sha256": "a8d3cb0aee5745ceca4a320b023d41c2149dd729082844b5aaefd5194e5c4d58",
+      "size": 23277
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/shop.png",
+      "sha256": "949144005adb42552d3de64de753e7801413aa00fcd4e740ac4e5f7c185f8940",
+      "size": 18680
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/to_window_assets.png",
+      "sha256": "ee82ef66d4c9e7d63f8c2e258ebd662db5e563cfad76d23cbdace31bc42d2e79",
+      "size": 27552
+    },
+    {
+      "path": "default/share/mirror/road_in_mir/towindow&forfeit_confirm_assets.png",
+      "sha256": "7f9948c04e2ab5b8c78b46805327b76b1c89a3090a6d92985e802256764fb114",
+      "size": 21242
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/activate_gift_search_off_assets.png",
+      "sha256": "e5b8d046bf7225fcf0aa7d438f2181c21e578ff5925a5d916e677a16311e5550",
+      "size": 22742
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/activate_gift_search_on_assets.png",
+      "sha256": "215c4d068e8f5ad1d14f021541097bb0b662e1fab0cb70fa4c491466c434b191",
+      "size": 22049
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/blunt_gift_1_assets.png",
+      "sha256": "84c2b644051f2adda070757c7548ebb848f9c3c21e49b2392a730c260e2893c8",
+      "size": 30416
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/dreaming_star/coins_assets.png",
+      "sha256": "2d9edd25878435e2a777ff27d4929b0a45553777065c8d5a1c51a6b8a71280fe",
+      "size": 22913
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/dreaming_star/convert_star_to_cost_assets.png",
+      "sha256": "faea2720b5f2aa9e51c9e725b7a70f0292241a7d3788ab60701bd1eac8bbf18f",
+      "size": 15115
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/dreaming_star/dreaming_star_enter_assets.png",
+      "sha256": "903167349b9a090c611052ddb8712802d8ce0106efd3452985b98980afdca326",
+      "size": 24048
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/dreaming_star/level_one_bonus_assets.png",
+      "sha256": "2c03a12fae232d8a5aea91c216307c02dcc8b60c9d59ce05bad0d2aa8a3fa212",
+      "size": 20531
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/dreaming_star/level_two_bonus_assets.png",
+      "sha256": "157c3f0ee5bc14c330a373831d8fc952a87fb9aa7681770152be33207e096169",
+      "size": 21666
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/dreaming_star/no_convert_star_to_cost_assets.png",
+      "sha256": "1435db2ee3557ddf35a8bc5f1f324a71edec9b112b04b5aa26a2f4a3fe6aee00",
+      "size": 14115
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/dreaming_star/select_star_confirm_assets.png",
+      "sha256": "def8fe951b0c5dda3fe3b366b8c8e4c33bb6ee6077e6bdbdc45ae5aa907ebca7",
+      "size": 22720
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/enter_mirror_assets.png",
+      "sha256": "467a003b90c9c004cafc531024ab2ec1b19141a3a0bb516ae83213842a1dd67a",
+      "size": 22560
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/enter_mirror_confirm.png",
+      "sha256": "e72b8a959be819b97b4e074161af62b8643032afd1574ce50a203e5199d707ec",
+      "size": 2936
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/infinity_mirror_bbox.png",
+      "sha256": "146a5036a6ee6e95512ff25577049cbbe8fa235f55362d760011b9661f97c694",
+      "size": 35579
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/infinity_mirror_enter_assets.png",
+      "sha256": "06a22d92ee7c3163ed8e25b7c58a56ef37f8c7c2efa215e4bed71e9de15448fb",
+      "size": 20458
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/level_confirm_assets.png",
+      "sha256": "4668fb4a4be50e0efbffee263037014bbf379aa3cd122b050f6dcf86cfcb2a0c",
+      "size": 21810
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/quick_start_assets.png",
+      "sha256": "88af30fbe7ccc96ca7e5b48dea8429aa026ee9a88110e59d6b5b5d2a7eae8c6d",
+      "size": 105543
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/bleed_ego_gift_1.png",
+      "sha256": "fa69d240284db30f78955fef00d1f6e593381e5ad416bc113d5f8b34ead5791f",
+      "size": 44408
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/bleed_ego_gift_2.png",
+      "sha256": "0f5f6ca7b1319217c0c4cca0a31f8c1f817e8b973c131a61951e4a1c120ac0ee",
+      "size": 45699
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/bleed_ego_gift_3.png",
+      "sha256": "e4139e689626a704a9632775f105970f6097c80eec51ef35735c4c257e939a73",
+      "size": 47113
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/blunt_ego_gift_1.png",
+      "sha256": "5397e74f6f0d0c47e5612bac891d113d99f97dce15ddfc0c86217b3785cfda3f",
+      "size": 47737
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/blunt_ego_gift_2.png",
+      "sha256": "5b0941acf33842835841bc2b694af575d5f97df750c43d1207e4eab6b7e2051b",
+      "size": 51559
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/blunt_ego_gift_3.png",
+      "sha256": "f56ae7fe432eab680141347ba503f3580c7e1fdb29d7f17b800ca07b0f347f99",
+      "size": 48523
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/burn_ego_gift_1.png",
+      "sha256": "df26b0b7392f1f3a2db1ef9514541923eb2cfe3ecfe7db01f0a7ec17c8b5edae",
+      "size": 49857
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/burn_ego_gift_2.png",
+      "sha256": "d1508a3dced39b8bffded1d191db50d97ae3aa753010c95c96782b14c2457d41",
+      "size": 49126
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/burn_ego_gift_3.png",
+      "sha256": "79773d8882a3d5075f4dba9702d7660d813a4a30144db602190ad3906e592d35",
+      "size": 47646
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/charge_ego_gift_1.png",
+      "sha256": "07231c088dc33828a58d986ac1eff365aedc6252f97ad6827be6ef28fb46f00a",
+      "size": 49146
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/charge_ego_gift_2.png",
+      "sha256": "be5e4ed59808ab9232bf4b4edd4c104f89a81db1fcc5ccc58a4ac79d9112f080",
+      "size": 49460
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/charge_ego_gift_3.png",
+      "sha256": "c66c8c237e0982100ba402fd77c91734dd5ceb399734f97bc245fd8ae75bbb4c",
+      "size": 46449
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/pierce_ego_gift_1.png",
+      "sha256": "6bdaa68eaff2e91ec6d39d14d1ec6c7a1a4eabe89a4251aa0891928faadd0027",
+      "size": 48106
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/pierce_ego_gift_2.png",
+      "sha256": "3668dbb0fe966e52a71a355f238279fba67a23535b0fdde8a135ca1ca6ca8f0c",
+      "size": 50452
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/pierce_ego_gift_3.png",
+      "sha256": "537e47816e5b7e2d6b8f6a2f0b3948215718d48764b7d6356e08792cac021efe",
+      "size": 45333
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/poise_ego_gift_1.png",
+      "sha256": "35b013917fc984cca9e59c825f17ccab489e15755e628d8251d44fade3d8291d",
+      "size": 49453
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/poise_ego_gift_2.png",
+      "sha256": "a7329a5d9c883b6e84ef93c3ebe24290236225243461a419219d16e32331fb7e",
+      "size": 49377
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/poise_ego_gift_3.png",
+      "sha256": "b58d1801b15d1c4b37acc25d60d259ec06863e40d4e6fd821424753697816dc8",
+      "size": 45873
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/random_ego_gift.png",
+      "sha256": "79b478bad836bb255475240de9f16f38f8671369baf97d1ac333875f329ad502",
+      "size": 41047
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/rupture_ego_gift_1.png",
+      "sha256": "e012abd17591fe7788a89ecb1c26bd0b711f950c1f381697c5fc86524a71a5fa",
+      "size": 47751
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/rupture_ego_gift_2.png",
+      "sha256": "371cd62ce14553ce9c883a6cc4ca463fb2be798dbd5b597fa870075c3d96bea5",
+      "size": 50091
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/rupture_ego_gift_3.png",
+      "sha256": "8b4863528f67c1620da9cd562eed49c045ca802e64d8938f57d91cff9a18e498",
+      "size": 42103
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/sinking_ego_gift_1.png",
+      "sha256": "320ccb21ea841f04cace0707bb72c43637c1db5d759df65def3b82b90d38da3c",
+      "size": 51023
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/sinking_ego_gift_2.png",
+      "sha256": "95b9740bd553ae2b3139a7a50b804304e3a0cf54d55be6a7bd6c8e3b78eca06f",
+      "size": 53737
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/sinking_ego_gift_3.png",
+      "sha256": "bb93bb6c90170368721064bb69c43607e45f9014885ceec460bef260d23007ea",
+      "size": 46510
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/slash_ego_gift_1.png",
+      "sha256": "1d1422d7bcf0f4b2f05ca32b8e87513026a02a3143efaef03b9f6c9640c1ccf2",
+      "size": 49266
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/slash_ego_gift_2.png",
+      "sha256": "c1faaf4faed28ee8dece135754257ee2690fc6c8835926153808f7e559ea845e",
+      "size": 48450
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/slash_ego_gift_3.png",
+      "sha256": "ee21a66fa6cd0f10ceea64a43d12aae501e3645af4c981c7fc77dd2ddc731158",
+      "size": 52646
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/tremor_ego_gift_1.png",
+      "sha256": "a73a7d61271ee0861859436997a14790e42f1a0c19a2c1f5ee632e4e7c6ef618",
+      "size": 48848
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/tremor_ego_gift_2.png",
+      "sha256": "d4f3de36f15a7d3a7f4a439f430efa86f103afcf5269053df10208388b3b6590",
+      "size": 50418
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_init_gift/tremor_ego_gift_3.png",
+      "sha256": "1cda28e8043dd77e56e3d1f038603695ff10bec4ea4067982535ae2b6e926207",
+      "size": 51377
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/select_team_stars_assets.png",
+      "sha256": "2a2c015748cb613b291341cd36686582e6ce0e7b0f698a3da9488ab0608037a8",
+      "size": 23708
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/slash_gift_1.png",
+      "sha256": "6e78d0f9250e334393dddc4b7f03411a49af664733f28fe21330199fbd62c980",
+      "size": 12042
+    },
+    {
+      "path": "default/share/mirror/shop/ID_skill_search_assets.png",
+      "sha256": "16b3e12e4d180adb9339ff3416685b11a1dbd448634dfcc8c83456c556ca912c",
+      "size": 28847
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_and_fuse_and_sell_confirm_assets.png",
+      "sha256": "60413f7b9bb7dc96aad3997034efe06042b0e4de624a4cd2118f832a0a11d0b9",
+      "size": 19191
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/big_bleed.png",
+      "sha256": "6fe121c78880092e568f7e96d38c479cf17755c89ccdf2931433958c2fffcd10",
+      "size": 7819
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/big_blunt.png",
+      "sha256": "f6e41fe9dd13b5743f57e330418286a0db1583ae5d84a13a9152750bb6001cc4",
+      "size": 9151
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/big_burn.png",
+      "sha256": "b1e29cacab0fca69f07638e90767b05e549590695b3e9a4063ad67ac2f2c6572",
+      "size": 8471
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/big_charge.png",
+      "sha256": "df5af7e248ce751bae940ecb9d193fc51ce5ac2f5f06a6f7be2fb13fb4b40d83",
+      "size": 9807
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/big_pierce.png",
+      "sha256": "9ba9006e937a5e78367bb7f4344d68c2f518be3c644177a2252c38f170da81f0",
+      "size": 8017
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/big_poise.png",
+      "sha256": "40e37000c22b9b93e13ceb90d47dce4332b51f28c17b4e6d053b2c9d93d10603",
+      "size": 8035
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/big_rupture.png",
+      "sha256": "0633d108f48bdbdfa0b9ae08b986b2f9e7a5890f789caa68fb01ac4da7c2fcc0",
+      "size": 8717
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/big_sinking.png",
+      "sha256": "6d904457aaede1a8980afc71cbfb9c2105be38bfe8c5eeecdfefe7347424788f",
+      "size": 9071
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/big_slash.png",
+      "sha256": "8fa131caa918481cf5dbeeb94f638b4a48fd2c177a5e5112c32c5cabf556c836",
+      "size": 9097
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/big_tremor.png",
+      "sha256": "a5be93f04e1c46f92683af168083678427476bbb1735cbb94b9fa84cedf84d4c",
+      "size": 13239
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/bleed.png",
+      "sha256": "09521fe1c3e4cfb8f4d169a4ed1f0cfc07756629fafa8a0254763d6ec808e2c6",
+      "size": 3870
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/blunt.png",
+      "sha256": "30ad7c4a5d13c6c192e5b1de942394cedcad0976b175f84e25295ce5d14e3570",
+      "size": 4093
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/burn.png",
+      "sha256": "a640f23639ee7699f1001c02eb6e072f86c16ea97bb27eca40b16f00fb06bfa3",
+      "size": 3575
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/charge.png",
+      "sha256": "ba30fd66395d38fcf8a85d3c7c47ca54b2e967015d8071058c1e6f0220be0ee6",
+      "size": 4223
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/pierce.png",
+      "sha256": "9a6618c19b31cd27f21d011b2fcc54bf13aeb43ad624f1135fba7a84c011bfc2",
+      "size": 3615
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/poise.png",
+      "sha256": "62202fd1a24de1e515a6fc6559ee755476c966ec3ffc550ef7141e68f872b94b",
+      "size": 3592
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/rupture.png",
+      "sha256": "fe4dff889886392594c4a388dabb0099e551f0fc4b3e8922e5abd4fcb3c925ea",
+      "size": 3799
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/shop_bleed.png",
+      "sha256": "6005d8e1247232b7d96f79525a128c99efb30c7b5e4773e45a0cc82d712a682d",
+      "size": 1800
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/shop_blunt.png",
+      "sha256": "4ff4c6132ebcecd1c515877707ce293e20aeffe4d47c7cb2ddebd62bd90e69da",
+      "size": 1892
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/shop_burn.png",
+      "sha256": "09a256041cdda690f0100fa18774f811b272a63b001f8410ad9fc497ef0996b5",
+      "size": 2037
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/shop_charge.png",
+      "sha256": "b334dda8a8d03f142018f0f3f73847396da6128a73f848394f35f65c721455f8",
+      "size": 2016
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/shop_pierce.png",
+      "sha256": "7e2c2e3632392d4280bc1eda1ae3fc9db8bebb6ef86429fb0149935ad1a1347b",
+      "size": 1653
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/shop_poise.png",
+      "sha256": "8e848602afd6d3bc246e0b5c31ee5575922daee550424e08814f36307936024c",
+      "size": 1833
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/shop_rupture.png",
+      "sha256": "eebcf2761b58efb6f06081ba66e40657d26f2a08e4da4765d354631bff296d45",
+      "size": 1819
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/shop_sinking.png",
+      "sha256": "7064a8d63a5ae355310b70d303e3f42065b28ceb89b7500154fe208cb187c882",
+      "size": 1642
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/shop_slash.png",
+      "sha256": "52599e8c9f8c0069f52e46bb3dd7447dc3d6594c6fab19cdf477e5f82c7eb93e",
+      "size": 2459
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/shop_tremor.png",
+      "sha256": "e2951784e0660e6c86f4f54f7b964485e3ae6cf1b6ab088f3455aa4bde5296a7",
+      "size": 1912
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/sinking.png",
+      "sha256": "f2e8b2c42509f24021edd286c15cc46c855974d5b5980e8d8021478146825776",
+      "size": 3952
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/slash.png",
+      "sha256": "d24618f267ba01d015ba958a25780126663ada03b3e0883c566c86e7719d64a5",
+      "size": 3694
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts/tremor.png",
+      "sha256": "2d2677608dbebced5310107ab3ac455d48020d2d3e399db5499c892d52244bf5",
+      "size": 5034
+    },
+    {
+      "path": "default/share/mirror/shop/enhance_gifts_assets.png",
+      "sha256": "38a49fe387d2c8ca64794a06423510acd423e1314c7b912f051efc8832a4abc6",
+      "size": 22718
+    },
+    {
+      "path": "default/share/mirror/shop/fuse_90%_assets.png",
+      "sha256": "343710c2fba4ba0c161d38733d9571da7e5309f41fa635a3ac91cc243e11d86b",
+      "size": 20530
+    },
+    {
+      "path": "default/share/mirror/shop/fuse_gift_assets.png",
+      "sha256": "e8fe97fd3ad6f189bc7e89ef63c246ab29a25b2343023282aed610406cb5369d",
+      "size": 22467
+    },
+    {
+      "path": "default/share/mirror/shop/fuse_gift_confirm_assets.png",
+      "sha256": "b2ca07e8cd2824e5b56992858d1232eb1958e73e1516c53e2db056dd2c3971f4",
+      "size": 19289
+    },
+    {
+      "path": "default/share/mirror/shop/fuse_label.png",
+      "sha256": "68fc9d958bf33583633b91f723dd2222f5665c411c49de2496f0ae78a20551cc",
+      "size": 1935
+    },
+    {
+      "path": "default/share/mirror/shop/fuse_to_select_keyword_assets.png",
+      "sha256": "78f91cda9ba1f435167c44674b97cda102b64abf2d64c0b8e9479d4c92c66c13",
+      "size": 67628
+    },
+    {
+      "path": "default/share/mirror/shop/fuse_use_starlight_assets.png",
+      "sha256": "ba7bda08a2825eff70a9453a0efd259f9f3a7127de06f1a79df056ccac6a13f6",
+      "size": 18446
+    },
+    {
+      "path": "default/share/mirror/shop/fuse_use_starlight_confirm_assets.png",
+      "sha256": "894896933668f1242f399c51bd4075722295204e97036141508da497de2aa199",
+      "size": 19135
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_level_IV_gift_assets.png",
+      "sha256": "545c83abfd0f831e4d67db3f1b84f4b512c352d148cfd98c06b6fb9e5ac92354",
+      "size": 20096
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/bleed_1.png",
+      "sha256": "be35f753b292dac1b25284098e290e8970436957e7fcee0d99613ae48b16d3b4",
+      "size": 42068
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/bleed_2.png",
+      "sha256": "9d910bea44a904383f3427fcc1864fae55d8010ca3c8e7ad214c7964c253bd02",
+      "size": 38498
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/bleed_3.png",
+      "sha256": "459fc2349c74bc5e90cca487c05d719ecb2a4ca50aaebbc8bb4d907851d51880",
+      "size": 44872
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/bleed_hard_1.png",
+      "sha256": "6e0fc6725a73bed67ecdb484ad55ff309f922eb87d3bab7f23aa9d6d809dac16",
+      "size": 40967
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/bleed_hard_2.png",
+      "sha256": "47e9d342a331f04064d36ab7e8222991d8af703f34b913438dfc575e04bf9dd9",
+      "size": 33119
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/bleed_hard_3.png",
+      "sha256": "f766a69e8298fdfe7fcbcaff5c64ee3353e59b9135159e3ee7c2130e91047543",
+      "size": 29366
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/burn_1.png",
+      "sha256": "ec66b4a61c482ec2a48b338aa54ceabffc19a7d1bb584f542da6db9d50da3bf0",
+      "size": 43940
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/burn_2.png",
+      "sha256": "548fb317a3d00851442a9f40c6622647f84032c5a3a2eb00b25f0eb0518a81ec",
+      "size": 43609
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/burn_hard_1.png",
+      "sha256": "abbf317ebc40e3bb64f95cc95f2a004409bcf6da9551a698387bb1a8a840ada2",
+      "size": 43565
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/burn_hard_2.png",
+      "sha256": "6fc9c85c38de4c16a05b01abf4efb99f000d64287cdee20682770f2c879c1921",
+      "size": 32260
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/charge_1.png",
+      "sha256": "ad685cf27dd93970a19801a3418b5453c6debf1a762aed3cc7766b0e9cb28717",
+      "size": 46427
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/charge_2.png",
+      "sha256": "9d03cddc8d1fca99b674ca0a4f7794be2b67221ce80b5098f13f19309c654605",
+      "size": 44766
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/charge_hard_1.png",
+      "sha256": "f513c56e3e852358651fe0b8ccf4d025114da81c9206794c75b0658f33108afe",
+      "size": 48522
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/poise_1.png",
+      "sha256": "f7392631f5d5a52f3e1c9e0a80fbfdcbe5cc0077a308b333d235f21941b9e681",
+      "size": 45587
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/poise_2.png",
+      "sha256": "eb3b232b521d143098d44df7e8939ed0081d841918e823a97593ec33aa7d574e",
+      "size": 42929
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/poise_3.png",
+      "sha256": "459fdc477016544a50c214c7d2d06b2af7b7e5ce9c0e70e8ea76fbfa51e6d7e9",
+      "size": 39555
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/poise_4.png",
+      "sha256": "cf14633d25e22f925cb6e3ec89294cbc13c64a7184ce58bece73b424de091e71",
+      "size": 34961
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/poise_hard_1.png",
+      "sha256": "f72d4b4638ef33afe1b323ff4c4b93c5e6eaba00a19baf965763a5aae97f65b4",
+      "size": 45305
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/rupture_1.png",
+      "sha256": "1c784edd1b2554204dde1c436ebe1f4306473618994842ccfb6c70fd5947feb4",
+      "size": 43046
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/rupture_2.png",
+      "sha256": "f3af9821e6febad290e1b59f7251fc622f37e114ddee1cfb8eeb2f4a3fdc3f8e",
+      "size": 45260
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/rupture_hard_1.png",
+      "sha256": "af10fd5f97555080bac97fe7290fd88f6f51b2a4970b0d011ee53e3ab8fc1e08",
+      "size": 29430
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/rupture_hard_2.png",
+      "sha256": "ab89a2e5c4450cfad84ca00eb2c2a5016a11feb3e8c5c71cf12d56e3cc999726",
+      "size": 42941
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/rupture_hard_3.png",
+      "sha256": "d52620c02cdb03e1a9c802a5c09ff75b0c585110e3a611aca57b66c85784271a",
+      "size": 47000
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/sinking_1.png",
+      "sha256": "d73d528c4e82b7062bf79ea6be196b972dee346252ccd2fea45c7ad571a8172d",
+      "size": 42361
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/sinking_2.png",
+      "sha256": "7fb3a312c230c032e7782a453e6e9a36890eaf296982217f8910fa5733f8e369",
+      "size": 45171
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/sinking_3.png",
+      "sha256": "1d4c23820c6ba78eda024330d54f565bd4ffbb5fc30b7263e0547540cb91bbb8",
+      "size": 39541
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/sinking_hard_1.png",
+      "sha256": "c5a33b2a963d72e13d61a24188461d23177ca8bfbb6578dcc4c72753635a53dd",
+      "size": 44128
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/tremor_1.png",
+      "sha256": "13de6c6e78a8df6372ab915559e31ce614190b9bf4ec74571c7d5587fee7e3f6",
+      "size": 48170
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/tremor_2.png",
+      "sha256": "6abaf976ee9f43b296fbd5ca3f0b212664af92da9c8116883b9801a230c3d7e2",
+      "size": 50000
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/tremor_3.png",
+      "sha256": "bf8b4f9bf73961c7b51f239ff77847072fae0173740ef6d1cbd48b9a186384bd",
+      "size": 39923
+    },
+    {
+      "path": "default/share/mirror/shop/fusion_result/tremor_hard_1.png",
+      "sha256": "119c747c976fbc88a73f00480ad438456ce43169d6455488a29261ac5d542c2c",
+      "size": 44437
+    },
+    {
+      "path": "default/share/mirror/shop/gifts_list_block.png",
+      "sha256": "859ea152adf699bbcd1e51a48860dee174829b0b17dd90c441035c5154c1163e",
+      "size": 6046
+    },
+    {
+      "path": "default/share/mirror/shop/heal_sinner/heal_all_sinner_assets.png",
+      "sha256": "8ed14b4d2039e932570197e38ba10354eac51d958320c7dcd72285f27f819497",
+      "size": 28364
+    },
+    {
+      "path": "default/share/mirror/shop/heal_sinner/heal_sinner_assets.png",
+      "sha256": "cd850fa00cd941dbe0e0d2fdd1f96c519de3870361d01e9bf5d17a01c91ca382",
+      "size": 19647
+    },
+    {
+      "path": "default/share/mirror/shop/keyword/keyword_bleed.png",
+      "sha256": "76f9eb2d45a2bd544f8733a3679199d0cb03e64e5cd5833d243c7385161dda9a",
+      "size": 16018
+    },
+    {
+      "path": "default/share/mirror/shop/keyword/keyword_blunt.png",
+      "sha256": "faa7d945a9b4347dc024fce2f9913a9e095d3f18dfc442e9d3e4eed48e98fe3b",
+      "size": 13146
+    },
+    {
+      "path": "default/share/mirror/shop/keyword/keyword_burn.png",
+      "sha256": "36de5b33d79b0ddffb8d70664e20db923d03b4d742d000d9c793613151175d79",
+      "size": 17816
+    },
+    {
+      "path": "default/share/mirror/shop/keyword/keyword_charge.png",
+      "sha256": "7e3d5d2166ed0089bd28cabd5b532e75d4db33436d5ab5f228de8992b369c541",
+      "size": 22521
+    },
+    {
+      "path": "default/share/mirror/shop/keyword/keyword_pierce.png",
+      "sha256": "f47a60906797841693dbc1b1c72e5c56379971480a9bf4d068b6775eecdf7c58",
+      "size": 12857
+    },
+    {
+      "path": "default/share/mirror/shop/keyword/keyword_poise.png",
+      "sha256": "83e8f143fe7a75a7ecba469945f78990fabb0b82153fedbe6198b58f9bdb7b58",
+      "size": 23680
+    },
+    {
+      "path": "default/share/mirror/shop/keyword/keyword_rupture.png",
+      "sha256": "ebaf0813c3cc4eb82d6c188c96baa13c2a941d053c33edb3d8a15e520b5c3bfc",
+      "size": 18607
+    },
+    {
+      "path": "default/share/mirror/shop/keyword/keyword_sinking.png",
+      "sha256": "b458f318e785684106ee9391d5434d547323ba51957a30e9e242d5bc3d59b33e",
+      "size": 19926
+    },
+    {
+      "path": "default/share/mirror/shop/keyword/keyword_slash.png",
+      "sha256": "5ce69a99d134329d482e8684c7bb8c1ba984247ecae404918a12adcceb75ed87",
+      "size": 13446
+    },
+    {
+      "path": "default/share/mirror/shop/keyword/keyword_tremor.png",
+      "sha256": "9c5bde855f6dcab675b51ebaebef5138fda214a5ef2268d317c690c547bdaae8",
+      "size": 24860
+    },
+    {
+      "path": "default/share/mirror/shop/leave_shop_confirm_assets.png",
+      "sha256": "3588919c1e0f5e677405d8f1eca354c80451adf02ddec76580343274a346d7e9",
+      "size": 20818
+    },
+    {
+      "path": "default/share/mirror/shop/level_III_to_buy.png",
+      "sha256": "33715efdca285814ae95cda4e0672b36278e68c5d09e2a9259ef0eb880131a5b",
+      "size": 1343
+    },
+    {
+      "path": "default/share/mirror/shop/level_IV_gifts/bleed_level_IV.png",
+      "sha256": "30d9b350d2042ada618900fe27b68597815072f3b0f565bda74801ab02c35d82",
+      "size": 10068
+    },
+    {
+      "path": "default/share/mirror/shop/level_IV_gifts/blunt_level_IV.png",
+      "sha256": "de1445187107065ccb3086fd4d621503be8adad262dd82d71dd4b360fe0efbcb",
+      "size": 24320
+    },
+    {
+      "path": "default/share/mirror/shop/level_IV_gifts/burn_level_IV.png",
+      "sha256": "5ce4473934e8414b96be356273cc2ad646d481692ffbb3f57c7b1f3d9c1c441d",
+      "size": 16683
+    },
+    {
+      "path": "default/share/mirror/shop/level_IV_gifts/charge_level_IV.png",
+      "sha256": "90a66bf39cbe457f470e8e021be6de7d71f1af6f319939b773a97c4c67699679",
+      "size": 14114
+    },
+    {
+      "path": "default/share/mirror/shop/level_IV_gifts/lunar_memory.png",
+      "sha256": "bc91617f5c615c3b0024531d74e88d14ccfabb1ebaae1111253292547babf19a",
+      "size": 21136
+    },
+    {
+      "path": "default/share/mirror/shop/level_IV_gifts/pierce_level_IV.png",
+      "sha256": "844ce8fa31fe539b10979b06373a8c9e92fc5a86f840090023e9682852e5c73c",
+      "size": 15354
+    },
+    {
+      "path": "default/share/mirror/shop/level_IV_gifts/poise_level_IV.png",
+      "sha256": "437654f50727d5274a5fc16617ae4d27dbc10544e983bb49e80ac594bae7ee19",
+      "size": 14787
+    },
+    {
+      "path": "default/share/mirror/shop/level_IV_gifts/rupture_level_IV.png",
+      "sha256": "d6750c65c5c9a09cbb3e5581dc1ff2da2ecacd978a153fa6bead3ad4648315f8",
+      "size": 14700
+    },
+    {
+      "path": "default/share/mirror/shop/level_IV_gifts/sinking_level_IV.png",
+      "sha256": "7c85ca279f9821543f3f140519bbe8cd595230126d4b4c3a6a16163bd4089e49",
+      "size": 14051
+    },
+    {
+      "path": "default/share/mirror/shop/level_IV_gifts/slash_level_IV.png",
+      "sha256": "d9eb88523d8cb3b40d950a7abb196c8da9929294873660154a45ae058ccdb0d0",
+      "size": 17865
+    },
+    {
+      "path": "default/share/mirror/shop/level_IV_gifts/tremor_level_IV.png",
+      "sha256": "88a244d90a1dec26d56e085b48719ce89e2281f8c2ceef4f2ca33e2467af04fd",
+      "size": 13916
+    },
+    {
+      "path": "default/share/mirror/shop/level_IV_to_buy.png",
+      "sha256": "8532b64eff577804e605128f1327234256b3c9ce3058aa80a855755b0e1c4f11",
+      "size": 1497
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave0_fragment1.png",
+      "sha256": "85631a7c8f5aa9c9df9234d61cafd8250e5f216123cfeda62dd6410a55a24651",
+      "size": 24775
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave0_fragment2.png",
+      "sha256": "2e9abf040cbeb3414b93d10fa191535de1e37ba332b889df9b2b4b9f81d620bf",
+      "size": 23329
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave0_fragment3.png",
+      "sha256": "b1f32307d8f8390d630b0774dc76362a0d40b10558a96917edc4aeba9fc07dfb",
+      "size": 22347
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave0_fragment4.png",
+      "sha256": "8b28fd3f8fc1e226a840f8d6a04568c3f0afd33067e4dddd0c9a1f9cfa85b705",
+      "size": 23792
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave0_fragment5.png",
+      "sha256": "9600c06c2c0b7c8a7ad9844504f5ecd54e6417dd2b1f312f98c17ef9e4965189",
+      "size": 24401
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave0_fragment6.png",
+      "sha256": "3e313a80fb5283923af32bcb3c2dcf481dc55a68dd82b3ac48199bb2f2b195ce",
+      "size": 24606
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave0_fragment7.png",
+      "sha256": "bae4268c03b0fb0286ec32b497146a5b9ba79c4c80f74ad3efc7f39bb8507fd6",
+      "size": 22513
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave1_1.png",
+      "sha256": "ba447257bcafd29dd29c82b46a56a7164f7a5d6cf207d0003b6aced92bb366a5",
+      "size": 23876
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave1_grand_welcome.png",
+      "sha256": "9b7f7fdfdd2b016666db77f1b0fc0481f7f6c6210067f673a30998ebfd4ac82d",
+      "size": 23950
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave1_vestige3.png",
+      "sha256": "59930b50a00535930a4976198e50117fb046e387dc1d70b0209a562080649c1e",
+      "size": 37065
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave2_child_within_a_flask.png",
+      "sha256": "6452e432eaaa8bfcb4dc287597cc35d3a89fd9fda38df47b0f008726498a3765",
+      "size": 23813
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave2_coffee_and_cranes.png",
+      "sha256": "ce7e433913f86667ce484d300db5e105563e1d6a9fb6965107816e6275215d6e",
+      "size": 20719
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave2_gloden_urn.png",
+      "sha256": "d8c8ee624635a1211d2074f79b250cea19ec199da735c5f4b99430302db201af",
+      "size": 21635
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave2_oracle.png",
+      "sha256": "7a8cfdc793751e7eb6d625d84f1cafdf416d0e56eee8941fa2774981b80059f5",
+      "size": 27545
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave2_vestige2.png",
+      "sha256": "778b6b6ba86c8aa85380ce4accbb2a3d79b98dd925e8fea1bfe561ec94a3482b",
+      "size": 41155
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave2_white_gossypium.png",
+      "sha256": "209d6209697c4f6e8f70849154bbd776987a1e340b7ed51e6bc899423635fa2a",
+      "size": 11084
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave3_blue_zippo_lighter.png",
+      "sha256": "aca0857ecc09f2165c99ec6f22fbcc90ab83c0795b39e317c65c092f84d5bc03",
+      "size": 21297
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave3_perversion.png",
+      "sha256": "505d77d39bde8dc53e7431b2db8341c1472db54831e69918f72b99b36029c14a",
+      "size": 21426
+    },
+    {
+      "path": "default/share/mirror/shop/must_be_abandoned/leave3_vestige.png",
+      "sha256": "7ed9f1388561d9b3b19c9c152a23706d57eba6d2069dd7ed052c965a20906986",
+      "size": 22950
+    },
+    {
+      "path": "default/share/mirror/shop/must_purchase/carmilla.png",
+      "sha256": "aa9cd835593e76430212dbb150aeb2195eb859629f72fd6673417b06a7b7b57c",
+      "size": 21020
+    },
+    {
+      "path": "default/share/mirror/shop/must_purchase/homeward.png",
+      "sha256": "e51ed87180ec0dd95011c62af0e0f60070e9b0e1b8820e040dd9d1ffac8d18b7",
+      "size": 22629
+    },
+    {
+      "path": "default/share/mirror/shop/must_purchase/lithograph.png",
+      "sha256": "c7765534b58c61977300b28388fb087173f93d01b2a35f17a22c4b34253f61d1",
+      "size": 20451
+    },
+    {
+      "path": "default/share/mirror/shop/must_purchase/phlebotomy_pack.png",
+      "sha256": "0030fde43a092429cbb5a11bc2c19ea0bfc154548bdf86991c2f88cfe81a56f8",
+      "size": 23864
+    },
+    {
+      "path": "default/share/mirror/shop/must_purchase/piece_of_relationship.png",
+      "sha256": "1af8ce8271b2376af1a2f9f551ec38ff7ba55db1b6034febbf12ecd8734abdac",
+      "size": 21094
+    },
+    {
+      "path": "default/share/mirror/shop/my_money_bbox.png",
+      "sha256": "7f476bdcc73b0e85f52ca299c40d1419ba5bd86e0a381b24b54d1d4093578328",
+      "size": 30837
+    },
+    {
+      "path": "default/share/mirror/shop/my_money_heal_bbox.png",
+      "sha256": "de84ec011964f249e1bb92e317a80cc9aa15b62145c19b0fb7cb2a771deb207b",
+      "size": 22056
+    },
+    {
+      "path": "default/share/mirror/shop/refresh_assets.png",
+      "sha256": "a9763330cdc446ab21b07d99949120ddeec25f3d1bb918d42ec9c060be34596f",
+      "size": 21874
+    },
+    {
+      "path": "default/share/mirror/shop/refresh_keyword_assets.png",
+      "sha256": "27d9652fa10261cacf0f2574760b47a6d1d1a9f5110281c11119544167406728",
+      "size": 21702
+    },
+    {
+      "path": "default/share/mirror/shop/refresh_keyword_confirm_assets.png",
+      "sha256": "c455b73f4a23cdc5f71fee3976630ab4ee3df0e0ee863db2e541245f947e35b7",
+      "size": 19651
+    },
+    {
+      "path": "default/share/mirror/shop/sell_gift_assets.png",
+      "sha256": "c25582ac6766a84c506b7a589a3ec49991d2306f4463f458feb5b80b562faa7d",
+      "size": 21042
+    },
+    {
+      "path": "default/share/mirror/shop/sell_gift_confirm_assets.png",
+      "sha256": "0cefc94d960d42323a6194d71438464f4fa6a1e03581d9369a9bedea0420c823",
+      "size": 20004
+    },
+    {
+      "path": "default/share/mirror/shop/shop_coins_assets.png",
+      "sha256": "87bcf41f0c6a191388df02e064221851dde79891a1a7d267fa2b23c379a10842",
+      "size": 31409
+    },
+    {
+      "path": "default/share/mirror/shop/skill_replacement_assets.png",
+      "sha256": "7f17587bd4c41aedaf8f4e552e9048a19e26476a621f95f6a5cd1e5c2e2c142c",
+      "size": 23372
+    },
+    {
+      "path": "default/share/mirror/shop/skill_replacement_coins.png",
+      "sha256": "a9110746806ec459ebc99035a51523c197da514deb3689ab2f0507ff67489e42",
+      "size": 6642
+    },
+    {
+      "path": "default/share/mirror/shop/skill_replacement_confirm_assets.png",
+      "sha256": "bf45a0959bdbdd982cb22c65ef93e692a3b8c968e0cbb07674b82a8fa5ab6c68",
+      "size": 19430
+    },
+    {
+      "path": "default/share/mirror/shop/sort_button_assets.png",
+      "sha256": "57138b52a33d0bdcfa611eac069a2b2d1c6a0c73a7eceea79a95409538a14597",
+      "size": 18716
+    },
+    {
+      "path": "default/share/mirror/shop/super_shop_skill_replacement_1_assets.png",
+      "sha256": "a708f3d103debdda80c9f2ffdd14e7e2b7a09c31d9c07a024bd1b5b4476f230a",
+      "size": 23120
+    },
+    {
+      "path": "default/share/mirror/shop/super_shop_skill_replacement_2_assets.png",
+      "sha256": "05371c96be6fab4d66c7f64ef482b9bdb6923eee73ed1bfe643e5f0ef4a7d27d",
+      "size": 23015
+    },
+    {
+      "path": "default/share/mirror/theme_pack/feature_theme_pack_assets.png",
+      "sha256": "79640aa677b4935875443394dc210db12a8d6a8551ede88c23369c2ca14e78ff",
+      "size": 24931
+    },
+    {
+      "path": "default/share/mirror/theme_pack/hard_assets.png",
+      "sha256": "61556344965b6f5dd96b434acbcc3f2fdd755ba7fc40f4ef6b7a0dc45c29a653",
+      "size": 23872
+    },
+    {
+      "path": "default/share/mirror/theme_pack/normal_assets.png",
+      "sha256": "04a20910ed14f1e5b3aa625dc4392bec29fd5a09e0cf8d9a9388e776170cc9b4",
+      "size": 24933
+    },
+    {
+      "path": "default/share/mirror/theme_pack/refresh_assets.png",
+      "sha256": "efeffcadbce3e00cb603a8820334674cd95d452592c2e0212bd519e9b43dc883",
+      "size": 20709
+    },
+    {
+      "path": "default/share/mirror/theme_pack/theme_pack_features.png",
+      "sha256": "9a2273b9c06c473ebded6cf8ebb15c9285683b64a414e7945ad35e6b480dffc5",
+      "size": 4505
+    },
+    {
+      "path": "default/share/pass/pass_coin.png",
+      "sha256": "84ee7e61a39de19db04fd9178bc1b44c718b161d3e02d19fad7be365298d25cd",
+      "size": 10667
+    },
+    {
+      "path": "default/share/scenes/story_meun_assets.png",
+      "sha256": "faed65a81aef238e70cec1a928f3ec267ce5ac5b82e42afa241e8ba2a21a13bb",
+      "size": 25129
+    },
+    {
+      "path": "default/share/scenes/story_skip_assets.png",
+      "sha256": "d92d9c571002c1d96920cba0125e05a415e49aaad006de2fc48fe500013219c2",
+      "size": 26653
+    },
+    {
+      "path": "default/share/scenes/story_skip_confirm_assets.png",
+      "sha256": "ee362096bdf7c644b981e261213be326b991627d6ca5796d04475de8cf4f8e80",
+      "size": 20915
+    },
+    {
+      "path": "default/share/teams/10_sinner_live_assets.png",
+      "sha256": "0f08c674ee8c4479a54210b008f3a54f46ff8db2dab2f88fbca1306df1ad69d1",
+      "size": 20190
+    },
+    {
+      "path": "default/share/teams/11_sinner_live_assets.png",
+      "sha256": "940ca61a9a4f744ee7a93d0b796a81eb8c85428d50bb2287f97f51abd2374f06",
+      "size": 18874
+    },
+    {
+      "path": "default/share/teams/12_sinner_live_assets.png",
+      "sha256": "e741e3735d3d1e51738fbad876faa9d42fe7d8fce127cbd30c69bb2d304068a5",
+      "size": 20854
+    },
+    {
+      "path": "default/share/teams/clear_selection_confirm_assets.png",
+      "sha256": "12464c7658ae02084475dddbd550656d51c2e1dde6db75c565509e4b4bb454aa",
+      "size": 21525
+    },
+    {
+      "path": "default/share/teams/identify_assets.png",
+      "sha256": "883f2421e44bd3503751ff5b2a0e3f28b641c1576556e4aaaf679dab24c985fe",
+      "size": 22477
+    },
+    {
+      "path": "default/share/teams/none_sinner_assets.png",
+      "sha256": "8e8feffa57753e27b41e479284a384c5d16d6b7ed9ac90dbdef960aa2996ed4f",
+      "size": 20963
+    },
+    {
+      "path": "default/share/teams/selected.png",
+      "sha256": "c95449dbbda554985aaf3ce58126a4a76b18451fa85c1a66323170fef07d6d9d",
+      "size": 14783
+    },
+    {
+      "path": "default/share/teams/team_code_assets.png",
+      "sha256": "0371f7e14af4100ca29340d22f67b17e1f2aff4a143de5a6462e5cd0dd1eb122",
+      "size": 19436
+    },
+    {
+      "path": "default/share/teams/team_code_cancel_button_assets.png",
+      "sha256": "9ba812094776da0403fa7b4be76dcf4c33cb6c2a7f371ea9378a523c9e9ed8a9",
+      "size": 19444
+    },
+    {
+      "path": "default/share/teams/team_code_confirm_button_assets.png",
+      "sha256": "1bf11035fa3dfc8ec1d8963c36d5b4de95687db065d85d1a4d286357ac955417",
+      "size": 18523
+    },
+    {
+      "path": "default/zh_cn/base/notification_close_assets.png",
+      "sha256": "d2d0b8b7d6e95006add5a35e3030c1627d613cf002dd5eb66449e2d6d180d8a9",
+      "size": 30995
+    },
+    {
+      "path": "default/zh_cn/base/retry.png",
+      "sha256": "86646b52194aa8765054ffa6ef52c584aa58ea69f512fe0086352facaa1419ef",
+      "size": 3106
+    },
+    {
+      "path": "default/zh_cn/base/retry_countdown.png",
+      "sha256": "5dcd6b4cbda1c9966445210b52c9113b3d52dac84697e71b15305d76abe56859",
+      "size": 5060
+    },
+    {
+      "path": "default/zh_cn/base/try_again.png",
+      "sha256": "922da568f2b6d881076850d39de2ace1740986949304118231e80fd7f2984ec2",
+      "size": 16948
+    },
+    {
+      "path": "default/zh_cn/battle/chaim_to_battle_assets.png",
+      "sha256": "1267b6d2a70c3acb2669102eb0416a9517613e12c4faaee2d2e6c4adbe50b0fc",
+      "size": 32617
+    },
+    {
+      "path": "default/zh_cn/battle/dead.png",
+      "sha256": "1b2d5f8f85c3f79c997667b48fe6c46b7534a14a990a34be52c89231a2c035ff",
+      "size": 1169
+    },
+    {
+      "path": "default/zh_cn/battle/normal_to_battle_assets.png",
+      "sha256": "e0b2c74f6c45067b7aa91e567bfa2700982be99486e754f1705921490ca3dc25",
+      "size": 36415
+    },
+    {
+      "path": "default/zh_cn/battle/select_none_assets.png",
+      "sha256": "f8063413b8a7be853578fb324a3d00b5f29833ae1b638a670a67f0fa0dbb17f9",
+      "size": 168277
+    },
+    {
+      "path": "default/zh_cn/enkephalin/use_lunacy_assets.png",
+      "sha256": "a2186a5e36ca84082e7627216d4d969175fc1a53947e8b7e5394fb44cc8d6d5f",
+      "size": 27757
+    },
+    {
+      "path": "default/zh_cn/event/advantage_check.png",
+      "sha256": "2ad72d3d0b93f9f03aafb72ed0482631da9b0d106797f03b17ef8ad8f62b3afe",
+      "size": 4512
+    },
+    {
+      "path": "default/zh_cn/event/choices_assets.png",
+      "sha256": "6cab73f946ef97e44df7cb477266b9a7f37bfb6526b78f3a3a85b71d2fe711de",
+      "size": 42672
+    },
+    {
+      "path": "default/zh_cn/event/commence_assets.png",
+      "sha256": "631c3763a7d35c99d80044f07549a8fd4a81766d94932b1f5297525e95599f34",
+      "size": 49033
+    },
+    {
+      "path": "default/zh_cn/event/commence_battle_assets.png",
+      "sha256": "d4b5e5ac4d66348dbe3fc4f5dc72083583d72a0a7141982dbe35f35c9f98c3e3",
+      "size": 49552
+    },
+    {
+      "path": "default/zh_cn/event/continue_assets.png",
+      "sha256": "2c806dc2b4ed49065aca2d433b68f32a2f29632251745de73f1a67ae6d0c7e4a",
+      "size": 40658
+    },
+    {
+      "path": "default/zh_cn/event/gain_a_ego_depending_on_result.png",
+      "sha256": "df85675f9f7d3cdd2e7b71d8b7e489421f6266d213f45059b90e950a1f327848",
+      "size": 7417
+    },
+    {
+      "path": "default/zh_cn/event/high.png",
+      "sha256": "a12c24fb9895b63ab0a7e8dbf315eaf664cd0678c7849b3ddbae3584ff7fbbb6",
+      "size": 2506
+    },
+    {
+      "path": "default/zh_cn/event/low.png",
+      "sha256": "7608113f88f5425305ee07950198b93c8ded6c3723576db8986f2edf18553940",
+      "size": 2900
+    },
+    {
+      "path": "default/zh_cn/event/normal.png",
+      "sha256": "abde19045f8f785de1ebdf9d98b12195c735e373d061f5c3a7a0644ef0a459bf",
+      "size": 4534
+    },
+    {
+      "path": "default/zh_cn/event/proceed_assets.png",
+      "sha256": "d4afa7e09cae5a8f6376ebfa366571927e65951ba7edd223db287a06f7710bb9",
+      "size": 42173
+    },
+    {
+      "path": "default/zh_cn/event/select_to_gain_ego.png",
+      "sha256": "a42f38614dadc3fc43bf6ec1154ee4b172856d22bc7c92c813c198f1f9bca7e6",
+      "size": 6089
+    },
+    {
+      "path": "default/zh_cn/event/unknown_event.png",
+      "sha256": "0d0a6f17f486c1b7c0bede4525354a698d69d268e1c0d45fc0134868a6f240d6",
+      "size": 1920
+    },
+    {
+      "path": "default/zh_cn/event/very_high.png",
+      "sha256": "5de5d20d315a1f12f6b128a5536c9291f5e70beb9c80f248505bc0f03487a693",
+      "size": 6531
+    },
+    {
+      "path": "default/zh_cn/event/very_low.png",
+      "sha256": "82772a987248174f4f723bd00cd52b24aca924449583ed5a8a2bbb0f0f8c265f",
+      "size": 5788
+    },
+    {
+      "path": "default/zh_cn/home/luxcavation_assets.png",
+      "sha256": "4afef847cd3433b99f17ae9910608806c0f4b7f07f88649c55a75bde4b9db80d",
+      "size": 27465
+    },
+    {
+      "path": "default/zh_cn/home/mirror_dungeons_assets.png",
+      "sha256": "18aae6c121f01e1462c276053a2523c6d0a54afe14d081f5728f5b9590d476fa",
+      "size": 29384
+    },
+    {
+      "path": "default/zh_cn/mail/claim_all_assets.png",
+      "sha256": "fc64d40b0790f14de594075a732c43d7941ece80cb2d7438c9b64b83dd5a52d6",
+      "size": 34624
+    },
+    {
+      "path": "default/zh_cn/mail/close_assets.png",
+      "sha256": "3bd3760765fa42f23a3f9a1b3aa9c68f6e9c41793962271b6edbbdbeee49a45e",
+      "size": 25046
+    },
+    {
+      "path": "default/zh_cn/mirror/road_in_mir/acquire_ego_gift_select_assets.png",
+      "sha256": "82df9c1db58884ee3cf90646496d0df26ec0aff9625a7fe7edc609e3d0eb53f9",
+      "size": 22882
+    },
+    {
+      "path": "default/zh_cn/mirror/road_in_mir/refuse_gift_assets.png",
+      "sha256": "014f4ae4ab6a1eba2a99f45697fc671f7f785eb812487d81172fbfbc2ffb82ec",
+      "size": 23407
+    },
+    {
+      "path": "default/zh_cn/mirror/road_in_mir/select_encounter_reward_card_assets.png",
+      "sha256": "152c37299e0258674af3699e41b1cc52f513a2bccf522829f28048f13194c536",
+      "size": 65502
+    },
+    {
+      "path": "default/zh_cn/mirror/road_in_mir/select_event_effect_confirm.png",
+      "sha256": "62945a989664c3b48a8ac83020e2c7abcaedbc4bbe7c1afad998ba1bc6331c67",
+      "size": 3564
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/bleed_gift_assets.png",
+      "sha256": "c2ad133ea26ff789ce852368985bd9cb667a43b792a088b9f36083a713828243",
+      "size": 21550
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/blunt_gift_assets.png",
+      "sha256": "728a19e1668dffbf431fc520436b6b7f2658c89def2826279c4930ebfa105d34",
+      "size": 21083
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/burn_gift_assets.png",
+      "sha256": "3042c067055c0e26cabeeac15b88bc24c085f8bf620845f9403e685415587b54",
+      "size": 22580
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/charge_gift_assets.png",
+      "sha256": "55e8f4165b81b5699663354a6650ae1eb940248c37c92648ecbe7189432650a1",
+      "size": 22750
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/enter_assets.png",
+      "sha256": "32b589b81cde218437c59891088e6a8321048df54216bba952108fe7504c7c5d",
+      "size": 39191
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/pierce_gift_assets.png",
+      "sha256": "e54b1d472e1e1b5e72ca3423e06198f8228a83da1e1f7b80e39f0e81e8b22a2e",
+      "size": 22508
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/poise_gift_assets.png",
+      "sha256": "c317413a6b3f68f7072588894653a687e0f9a74344571ee16ebf0245ae568262",
+      "size": 24142
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/resume_assets.png",
+      "sha256": "60ec3138675f872637dc863e31d95b30e02364bd571b02a5ac3e9d0b48527a71",
+      "size": 51410
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/rupture_gift_assets.png",
+      "sha256": "5f64529d7a3caff28004699e8ccd126a8324b41b58acdecffd0d4d1562430668",
+      "size": 22910
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/select_all_stars_assets.png",
+      "sha256": "d6e3c8025251acc4d7b3ede1c20c29f7773b754d3e95d1d65a3fb6e2b3da85fc",
+      "size": 28841
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/select_init_ego_gifts_confirm_assets.png",
+      "sha256": "1c12ae2666abbadf571bc256f3911a44a40472b1b229c55d38d91a8817149572",
+      "size": 21924
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/select_team_confirm_assets.png",
+      "sha256": "8c6a2cd957b97524b1858af0ecdc6b8feaefba36ed257ee959edce62dd9e22f9",
+      "size": 28300
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/sinking_gift_assets.png",
+      "sha256": "aea7b454011bebdc3d47633c3df9c0d0eb1f28ea0b10f3cf40dfdea9a02b1748",
+      "size": 22802
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/slash_gift_assets.png",
+      "sha256": "aaa98db81be3a62d6e500f7da3e0d460aae121fb570689469db541b71773c090",
+      "size": 21463
+    },
+    {
+      "path": "default/zh_cn/mirror/road_to_mir/tremor_gift_assets.png",
+      "sha256": "4b9bdbd00068f9395e07e4bbc3d0913560f5e6b842819fa49796332719765149",
+      "size": 22165
+    },
+    {
+      "path": "default/zh_cn/mirror/shop/ID_skill_replace_0_purchased_assets.png",
+      "sha256": "873edd6303c5dd028123133ee85db92f08a85319aa4dce3eeb2e271022b274fc",
+      "size": 25384
+    },
+    {
+      "path": "default/zh_cn/mirror/shop/ID_skill_replace_1_purchased_assets.png",
+      "sha256": "f45e4cf337756b79abeb1a975cf51cf4c8110ec2341fe34d7e685e4ec8d35e72",
+      "size": 24940
+    },
+    {
+      "path": "default/zh_cn/mirror/shop/ID_skill_replace_2_purchased_assets.png",
+      "sha256": "8d896b96afd450d5d67dbc7820e0fb9f16d6c929b9c88e7561b7da0ffda69998",
+      "size": 23749
+    },
+    {
+      "path": "default/zh_cn/mirror/shop/fuse_ego_gift_assets.png",
+      "sha256": "f6d55e87d29a2bcf6a7ae10b6c4a6b74d5d0690b8d9045b69ec019b8a75bccf6",
+      "size": 56931
+    },
+    {
+      "path": "default/zh_cn/mirror/shop/heal_sinner/heal_sinner_return_assets.png",
+      "sha256": "34c6812e7b3fe964e9eeebb5d667c18721aab6f220eb635143c128d200c87f99",
+      "size": 38320
+    },
+    {
+      "path": "default/zh_cn/mirror/shop/leave_assets.png",
+      "sha256": "d92111bca92b342d1dffbb946ca38f6f7911951d17257faf1132d62392a0d33e",
+      "size": 34727
+    },
+    {
+      "path": "default/zh_cn/mirror/shop/power_up_assets.png",
+      "sha256": "ffcf6257b2d9f7a88bfe08106ee93d1d685d7eebd49dea1bfeadde3e74c9cee1",
+      "size": 21502
+    },
+    {
+      "path": "default/zh_cn/mirror/shop/power_up_confirm_assets.png",
+      "sha256": "970b3321451c2d184ea6cad76649027a1dc1850c427654d94490444763369978",
+      "size": 21921
+    },
+    {
+      "path": "default/zh_cn/mirror/shop/purchase_assets.png",
+      "sha256": "252d5920723436885c29577b879bf3b5016da0c76ca65a117dbd0c020290f0b9",
+      "size": 22571
+    },
+    {
+      "path": "default/zh_cn/mirror/shop/super_shop_assets.png",
+      "sha256": "4335c23fb159f83461b59a247bf101634ebac1422713e246ce3a32d6480799ef",
+      "size": 26702
+    },
+    {
+      "path": "default/zh_cn/pass/pass_missions_assets.png",
+      "sha256": "10ed6a2f2484a69d4f2bc5328293a02c0540a456c0af7c0c4e19a6fa157ccda0",
+      "size": 29318
+    },
+    {
+      "path": "default/zh_cn/pass/weekly_assets.png",
+      "sha256": "e0434085ffb0b7694c9410a144383de890ed3d1f9867dfcadc0a6d30ce42c02e",
+      "size": 29016
+    },
+    {
+      "path": "default/zh_cn/teams/clear_selection_assets.png",
+      "sha256": "9b93afa8e170bec12d5ae984e5a3ab4306b365fdc62c42cb291b95b71be2a7aa",
+      "size": 21018
+    },
+    {
+      "path": "default/zh_cn/teams/load_team_code_button_assets.png",
+      "sha256": "2e06f0b4adf7a2d5e2afd7fd3f4f8ba7b1769e6880299674100b31fa2e63d3cb",
+      "size": 89299
+    }
+  ],
+  "generated_at": "2026-06-07T04:52:28Z",
+  "manifest_id": "5ea10e2a241333ae326f272ce2ef17cb000b5ceb4f3afde77bdad40181d43e7e",
+  "package": {
+    "format": "7z",
+    "path": "packages/images.7z",
+    "sha256": "e1df71c155bb3f7f69b398175323c218e390b3f3f49c0f248c757424838e11ae",
+    "size": 7426386
+  },
+  "schema_version": 1
+}
