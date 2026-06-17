@@ -16,6 +16,11 @@
       "size": 24557
     },
     {
+      "path": "dark/en/teams/clear_selection_assets.png",
+      "sha256": "96e736b5041799c18934aa2dd592aad66223af88450cd6183da675ba19bfb2c2",
+      "size": 60877
+    },
+    {
       "path": "dark/share/base/renew_confirm_assets.png",
       "sha256": "4160ea379f3ff8c563efc0b2357cfb8b1d72f86153cded4a51a24c753b1d9db3",
       "size": 20819
@@ -194,6 +199,11 @@
       "path": "dark/zh_cn/mirror/road_to_mir/resume_assets.png",
       "sha256": "40b597510567b16db98acd2814390a17cda5ffa454597c5ea876606b7e8b97a5",
       "size": 25538
+    },
+    {
+      "path": "dark/zh_cn/teams/clear_selection_assets.png",
+      "sha256": "e85c7ad1c17a10ea0b265650dff202d2334177d04e203b5a1a86e9d58f3db8a1",
+      "size": 62477
     },
     {
       "path": "default/en/base/notification_close_assets.png",
@@ -2426,13 +2436,13 @@
       "size": 89299
     }
   ],
-  "generated_at": "2026-06-16T16:47:02Z",
-  "manifest_id": "2170c2126d38088cb6a929f5ae17a809ca5249534613e6e94e93b02b8a13d69e",
+  "generated_at": "2026-06-17T04:47:09Z",
+  "manifest_id": "3d6d49363f9d174ca76ed552d6a1ec66d49290693edf66871df09bd9e43d8077",
   "package": {
     "format": "7z",
     "path": "packages/images.7z",
-    "sha256": "003a5acb40710153132ad6f737a70182b87fbd7ee7ae6d36ace348fe85330d4d",
-    "size": 8563787
+    "sha256": "f7a26b69e3aa3961b0e7bc896e0b7c49dcdde68e48f558371133826d67bcfefe",
+    "size": 8599539
   },
   "schema_version": 1
 }
