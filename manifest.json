@@ -757,8 +757,8 @@
     },
     {
       "path": "default/share/home/season_assets.png",
-      "sha256": "9aa9c404a860d1bfdf8b3bfaac6ca4aa09b1f85d1dcc392dc2f10717ed82e14c",
-      "size": 52383
+      "sha256": "6bf24772300feb62143076f6291a7172fccc512d3ed7353895fec94993ef010c",
+      "size": 23799
     },
     {
       "path": "default/share/home/window_assets.png",
@@ -2456,13 +2456,13 @@
       "size": 89299
     }
   ],
-  "generated_at": "2026-09-10T15:00:56Z",
-  "manifest_id": "ea41b5869dae27c530f7524ef621ab39b8a87119de7345038a63bae9070f3a1c",
+  "generated_at": "2026-09-22T15:42:43Z",
+  "manifest_id": "802efd2f8c70e32550387beef69398a257fc6dd10346e29dd4463df923f11d30",
   "package": {
     "format": "7z",
     "path": "packages/images.7z",
-    "sha256": "3912e3d953826e0118651a071425dbb32e6ce0f9882bbc7642e8d770a8f5c2df",
-    "size": 8590264
+    "sha256": "0be071204de7c243d645da0cafa8842c36c584572d8880bd5da06bdcd7fba8ce",
+    "size": 8562673
   },
   "schema_version": 1
 }
