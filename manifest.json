@@ -111,6 +111,11 @@
       "size": 19495
     },
     {
+      "path": "dark/share/mirror/road_in_mir/acquire_ego_gift_card.png",
+      "sha256": "357921274c72715e8723b340460fd4c48b7d1e6c8b5ed729629208838b0cd3a1",
+      "size": 1824
+    },
+    {
       "path": "dark/share/mirror/road_in_mir/forfeit_assets.png",
       "sha256": "a14b1949d27e3171be0b26fbf72612d5de63c8096c5a80159bd3f7efad29f592",
       "size": 20690
@@ -701,6 +706,11 @@
       "size": 34032
     },
     {
+      "path": "default/share/event/all_sinner_bbox.png",
+      "sha256": "dfe707e90fb06edcf117ca42a4740baec327d16d9e15497df0055cb54b071f4a",
+      "size": 480041
+    },
+    {
       "path": "default/share/event/perform_the_check_feature_assets.png",
       "sha256": "3e795bd3c0371358dc391dd82e73fe335823d42396dd8a030d5658f6c2c3ef93",
       "size": 40179
@@ -962,8 +972,8 @@
     },
     {
       "path": "default/share/mirror/road_in_mir/acquire_ego_gift_box_assets.png",
-      "sha256": "20dfa82192bc7c2ec7098669ed0e20266bf7215e3fba5ab6a96876a087cf16d9",
-      "size": 28877
+      "sha256": "3077c303cb3cf3a2085e0c9426c0c3b651ccbd3ee9aee1be39bc06eb587d9f48",
+      "size": 18174
     },
     {
       "path": "default/share/mirror/road_in_mir/acquire_ego_gift_card.png",
@@ -1107,8 +1117,8 @@
     },
     {
       "path": "default/share/mirror/road_to_mir/dreaming_star/convert_star_to_cost_assets.png",
-      "sha256": "faea2720b5f2aa9e51c9e725b7a70f0292241a7d3788ab60701bd1eac8bbf18f",
-      "size": 15115
+      "sha256": "82bdcc6f7d22bd97f59b8b735979979e8a691b5c9301465afd9476ab52fed94d",
+      "size": 27123
     },
     {
       "path": "default/share/mirror/road_to_mir/dreaming_star/dreaming_star_enter_assets.png",
@@ -1127,8 +1137,8 @@
     },
     {
       "path": "default/share/mirror/road_to_mir/dreaming_star/no_convert_star_to_cost_assets.png",
-      "sha256": "1435db2ee3557ddf35a8bc5f1f324a71edec9b112b04b5aa26a2f4a3fe6aee00",
-      "size": 14115
+      "sha256": "ec531d595a253e794c5bd2ab2b3c4f5d609f891a4f93df10947fb15259c4a6b5",
+      "size": 25236
     },
     {
       "path": "default/share/mirror/road_to_mir/dreaming_star/select_star_confirm_assets.png",
@@ -1176,19 +1186,24 @@
       "size": 2997
     },
     {
+      "path": "default/share/mirror/road_to_mir/observe_ego_gift/bleed.png",
+      "sha256": "97af58103cde92edde679c0347d8768feb21e072d08ee8f37bf68512ced8c295",
+      "size": 5562
+    },
+    {
+      "path": "default/share/mirror/road_to_mir/observe_ego_gift/burn.png",
+      "sha256": "5b6e74b4d947a055a4e50a49c70f8d5b1e7d34b38b66008290f16d262ca06b35",
+      "size": 5521
+    },
+    {
       "path": "default/share/mirror/road_to_mir/observe_ego_gift/gift_box_bbox.png",
       "sha256": "adeaad40cc07f1028886c2f21bf0ddaadb2c6b77febefa401d7ed38529f199f2",
       "size": 1070673
     },
     {
-      "path": "default/share/mirror/road_to_mir/observe_ego_gift/observe_bleed_assets.png",
-      "sha256": "490de85a84fc7335400af46b957d88df6dba3ef2161ae5ec9d2641dce816b595",
-      "size": 23188
-    },
-    {
-      "path": "default/share/mirror/road_to_mir/observe_ego_gift/observe_burn_assets.png",
-      "sha256": "42e06f50ee37cd18a4acaee8f20dec527d094a06326bba510b57a28c5489a1b5",
-      "size": 23774
+      "path": "default/share/mirror/road_to_mir/observe_ego_gift/observe_bbox.png",
+      "sha256": "c1f0b0d4195472bb861dc1c041b376a84d870b0d299c5c412b6d337dffeddc8b",
+      "size": 758410
     },
     {
       "path": "default/share/mirror/road_to_mir/observe_ego_gift/reject_gift_bbox.png",
@@ -2456,13 +2471,13 @@
       "size": 89299
     }
   ],
-  "generated_at": "2026-09-22T15:42:43Z",
-  "manifest_id": "802efd2f8c70e32550387beef69398a257fc6dd10346e29dd4463df923f11d30",
+  "generated_at": "2026-11-10T09:50:14Z",
+  "manifest_id": "445de888706644bfae7056e7fac9c402a0274347b5bf7a87719dded0b180090b",
   "package": {
     "format": "7z",
     "path": "packages/images.7z",
-    "sha256": "0be071204de7c243d645da0cafa8842c36c584572d8880bd5da06bdcd7fba8ce",
-    "size": 8562673
+    "sha256": "b35c88f6faf0daefbbb10f23ffd64a0aeeedd2e67db9f84afd6a094147ddcc38",
+    "size": 9775236
   },
   "schema_version": 1
 }
