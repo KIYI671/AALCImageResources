@@ -56,6 +56,11 @@
       "size": 33681
     },
     {
+      "path": "dark/share/home/back2_assets.png",
+      "sha256": "b5dca4beb55740973d59c49fb726188cf00a79495c19449280c576e578a6cbf4",
+      "size": 20829
+    },
+    {
       "path": "dark/share/home/back_assets.png",
       "sha256": "9874085f1cd1c6b82acb799bb7ad1878e9e31fd742ccc41dfeb826c2a3fc8a4e",
       "size": 24431
@@ -317,13 +322,13 @@
     },
     {
       "path": "default/en/home/luxcavation_assets.png",
-      "sha256": "ff36355658aabbf0303a969953d0aff25e940d9c79fca01e4a07e919a24995f2",
-      "size": 32656
+      "sha256": "456ab9cadda5db1885796968910268f79e02cf4d6360ba24f6a0b7a8cad77fb0",
+      "size": 26454
     },
     {
       "path": "default/en/home/mirror_dungeons_assets.png",
-      "sha256": "65bef38537025c68cec7686774514c64bb73f6cd110586e0be0087e03d4f9260",
-      "size": 28480
+      "sha256": "cf2e36344f05bfa7f718bba5e8549b2812b1934e3c014535341ab18fe5d7082e",
+      "size": 34932
     },
     {
       "path": "default/en/mail/claim_all_assets.png",
@@ -496,14 +501,34 @@
       "size": 30871
     },
     {
+      "path": "default/en/pass/battle_pass_assets.png",
+      "sha256": "964227197526a95b2ed069528b3a3e13b1948a78ec653707f93392d1fb02b78d",
+      "size": 25207
+    },
+    {
+      "path": "default/en/pass/claim_all_assets.png",
+      "sha256": "3741bd59bbfac27ddd28858be69e67a73c0e71f7ef57aa78a4005b9f2f0916f7",
+      "size": 18248
+    },
+    {
+      "path": "default/en/pass/daily_assets.png",
+      "sha256": "b49eff923ee5087b7de60848d998347dcc7491f30a87ed551712853a693cd3e8",
+      "size": 15750
+    },
+    {
       "path": "default/en/pass/pass_missions_assets.png",
       "sha256": "d6d7bffe2cda8325f2c2ce86602e837bf1d108467c77e8b49f5323962848184e",
       "size": 26459
     },
     {
+      "path": "default/en/pass/seasonal_assets.png",
+      "sha256": "333ef114793e7481c20cd174b3340ea05ba1795f0f0d4c98f89e0dc530c1d1bd",
+      "size": 19746
+    },
+    {
       "path": "default/en/pass/weekly_assets.png",
-      "sha256": "f0ed7b5033fc91fb971211c289cdc47be6b9c2dcbf9ab3bb3731353947a474f4",
-      "size": 26649
+      "sha256": "08edb613074c6702825cd67a513e99e7eebcdeba7d751b6aba639fa8a376141a",
+      "size": 18113
     },
     {
       "path": "default/en/teams/load_team_code_button_assets.png",
@@ -729,6 +754,11 @@
       "path": "default/share/event/unknown_event.png",
       "sha256": "6e0df8091f7f7a2e657a1a6f7600283ed8c5deda5aac742562b0251e2ec9da6a",
       "size": 1949
+    },
+    {
+      "path": "default/share/home/back2_assets.png",
+      "sha256": "3f211337a145e29574d6bb3940a88026f452c4cd4ee0fb8d6ad02deaada5a2b7",
+      "size": 24326
     },
     {
       "path": "default/share/home/back_assets.png",
@@ -2287,13 +2317,13 @@
     },
     {
       "path": "default/zh_cn/home/luxcavation_assets.png",
-      "sha256": "4afef847cd3433b99f17ae9910608806c0f4b7f07f88649c55a75bde4b9db80d",
-      "size": 27465
+      "sha256": "e13060bcc528386a409f014ee97a3b173a29ee651cc53cce41d6a047a653cb65",
+      "size": 19383
     },
     {
       "path": "default/zh_cn/home/mirror_dungeons_assets.png",
-      "sha256": "18aae6c121f01e1462c276053a2523c6d0a54afe14d081f5728f5b9590d476fa",
-      "size": 29384
+      "sha256": "f4fea4f853302096d318c79129b51a3d29832a1ea2d002e4c22fed21fb8262da",
+      "size": 25477
     },
     {
       "path": "default/zh_cn/mail/claim_all_assets.png",
@@ -2456,9 +2486,29 @@
       "size": 26702
     },
     {
+      "path": "default/zh_cn/pass/battle_pass_assets.png",
+      "sha256": "cbea16d7c7f69240a3df1bfc26dbec3b492de7675dd54155b66c56464fa63542",
+      "size": 22753
+    },
+    {
+      "path": "default/zh_cn/pass/claim_all_assets.png",
+      "sha256": "bfa8ab164ef270d6d3c4668c70aa7d040b3613d7a99efe03012c132e3bac40c4",
+      "size": 19890
+    },
+    {
+      "path": "default/zh_cn/pass/daily_assets.png",
+      "sha256": "9549694db4e7fbdab20b8534b5068c3825cc168ccc14ad7bd251274a52707b2d",
+      "size": 19956
+    },
+    {
       "path": "default/zh_cn/pass/pass_missions_assets.png",
       "sha256": "10ed6a2f2484a69d4f2bc5328293a02c0540a456c0af7c0c4e19a6fa157ccda0",
       "size": 29318
+    },
+    {
+      "path": "default/zh_cn/pass/seasonal_assets.png",
+      "sha256": "97ebf425be5964e9284f0d4fc3652bd5274c16fbed8db975a25865361158f2a6",
+      "size": 22471
     },
     {
       "path": "default/zh_cn/pass/weekly_assets.png",
@@ -2471,13 +2521,13 @@
       "size": 89299
     }
   ],
-  "generated_at": "2026-11-10T09:50:14Z",
-  "manifest_id": "445de888706644bfae7056e7fac9c402a0274347b5bf7a87719dded0b180090b",
+  "generated_at": "2026-11-19T07:03:23Z",
+  "manifest_id": "438dc31855a812797495dcee7b0c28ca3bf3294178ec8bf1191749b757506b7a",
   "package": {
     "format": "7z",
     "path": "packages/images.7z",
-    "sha256": "b35c88f6faf0daefbbb10f23ffd64a0aeeedd2e67db9f84afd6a094147ddcc38",
-    "size": 9775236
+    "sha256": "b4d6cde0b497f48b3fb298ff5e8b6db5caf2a7bfe0a7ae6640f66df551a25280",
+    "size": 9870205
   },
   "schema_version": 1
 }
